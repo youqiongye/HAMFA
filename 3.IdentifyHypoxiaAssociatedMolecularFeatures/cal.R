@@ -190,20 +190,6 @@ rm.zero.col <- function(molecular.data)
         print(paste(length(rm1),"genes were removed."))
     }
         
-        if(FALSE)
-            {
-                gene.data <- read.table("/extraspace/yyuan3/Lab_share/protein_coding_gene_annotation.tsv",header=TRUE, sep="\t", quote="")
-                name.id <- paste(data$Gene, data$ID, sep="|")
-                keep.index <- match(gene.data$ID, ids)
-                if (length(which(is.na(keep.index)))>0)
-                    {
-                        stop("Some protein coding genes are not found. Double check!")
-                    }
-                print(paste("After remove non-coding, total genes:", length(keep.index)))
-                ##print(paste(length(rm),"columns were removed because of non-coding."))
-
-                molecular.data <- molecular.data[,keep.index]
-            }
         
         # remove non-variable genes, i.e., sd=0
         zero.col <- which(apply(molecular.data, 2, sd)==0)
