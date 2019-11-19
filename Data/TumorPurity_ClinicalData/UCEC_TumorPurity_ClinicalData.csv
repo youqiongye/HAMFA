@@ -1,0 +1,90 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,race,pathologic_stage,histological_type
+TCGA-5S-A9Q8,normoxic,51,0.86,BLACK OR AFRICAN AMERICAN,Stage III,Endometrioid endometrial adenocarcinoma
+TCGA-A5-A1OH,normoxic,86,0.83,WHITE,Stage III,Uterine.serous.endometrial.adenocarcinoma
+TCGA-A5-A2K3,hypoxic,68,0.48,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-A5-A2K5,hypoxic,76,0.77,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-A5-A2K7,hypoxic,41,0.83,Other,Stage II,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-A5-A3LO,hypoxic,64,0.55,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-A5-A3LP,hypoxic,74,0.66,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AJ-A2QO,hypoxic,85,0.79,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AJ-A3BD,hypoxic,57,0.76,WHITE,Stage III,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AJ-A3BG,hypoxic,65,0.85,WHITE,Stage I,Other
+TCGA-AJ-A3BI,hypoxic,67,0.78,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AJ-A3BK,normoxic,68,0.73,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AJ-A3EK,hypoxic,53,0.65,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AJ-A3EL,hypoxic,47,0.62,Other,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AJ-A3EM,hypoxic,69,0.71,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AJ-A3I9,normoxic,52,0.87,WHITE,Stage II,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AJ-A3IA,normoxic,77,0.55,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AJ-A3NE,normoxic,46,0.62,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AJ-A3NF,normoxic,60,0.46,WHITE,Stage III,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AJ-A3NG,normoxic,83,0.75,WHITE,Stage II,Other
+TCGA-AJ-A3NH,normoxic,90,0.72,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AJ-A3OJ,hypoxic,54,0.67,WHITE,Stage II,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AJ-A3OK,normoxic,73,0.68,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AJ-A3QS,normoxic,57,0.64,BLACK OR AFRICAN AMERICAN,Stage III,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AJ-A3TW,hypoxic,78,0.66,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AJ-A8CT,normoxic,58,0.55,BLACK OR AFRICAN AMERICAN,Stage I,Endometrioid endometrial adenocarcinoma
+TCGA-AJ-A8CW,normoxic,64,0.79,BLACK OR AFRICAN AMERICAN,Stage I,Endometrioid endometrial adenocarcinoma
+TCGA-AP-A3K1,hypoxic,56,0.8,WHITE,Stage IV,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AP-A5FX,normoxic,68,0.75,BLACK OR AFRICAN AMERICAN,Stage III,Other
+TCGA-AX-A1C7,hypoxic,77,0.92,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AX-A2HH,normoxic,60,0.89,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AX-A2IN,hypoxic,63,0.68,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AX-A3FS,hypoxic,82,0.8,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AX-A3FW,normoxic,66,0.89,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AX-A3FX,hypoxic,69,0.75,WHITE,Stage II,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AX-A3FZ,hypoxic,33,0.9,WHITE,Stage III,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AX-A3G1,normoxic,84,0.69,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AX-A3G3,hypoxic,58,0.61,WHITE,Stage III,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AX-A3G4,normoxic,60,0.68,Other,Stage III,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AX-A3G6,normoxic,67,0.82,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AX-A3G7,normoxic,71,0.72,WHITE,Stage IV,Uterine.serous.endometrial.adenocarcinoma
+TCGA-AX-A3G8,hypoxic,76,0.89,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AX-A3G9,hypoxic,63,0.75,WHITE,Stage III,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-AX-A3GB,normoxic,73,0.69,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-B5-A11R,normoxic,51,0.84,BLACK OR AFRICAN AMERICAN,Stage II,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-B5-A1MS,normoxic,60,0.86,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-B5-A3FC,normoxic,53,0.71,BLACK OR AFRICAN AMERICAN,Stage II,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-B5-A5OC,normoxic,71,0.56,BLACK OR AFRICAN AMERICAN,Stage III,Endometrioid endometrial adenocarcinoma
+TCGA-B5-A5OD,normoxic,67,0.77,BLACK OR AFRICAN AMERICAN,Stage III,Other
+TCGA-B5-A5OE,hypoxic,68,0.85,BLACK OR AFRICAN AMERICAN,Stage III,Other
+TCGA-BG-A0MK,normoxic,52,0.72,BLACK OR AFRICAN AMERICAN,Stage II,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-BG-A3PP,hypoxic,82,0.65,WHITE,Stage II,Uterine.serous.endometrial.adenocarcinoma
+TCGA-BK-A4ZD,normoxic,42,0.83,BLACK OR AFRICAN AMERICAN,Stage I,Endometrioid endometrial adenocarcinoma
+TCGA-BK-A56F,normoxic,75,0.77,BLACK OR AFRICAN AMERICAN,Stage I,Endometrioid endometrial adenocarcinoma
+TCGA-BK-A6W4,normoxic,62,0.28,BLACK OR AFRICAN AMERICAN,Stage I,Endometrioid endometrial adenocarcinoma
+TCGA-BS-A0V4,normoxic,56,0.7,WHITE,Stage I,Other
+TCGA-BS-A0V7,normoxic,48,0.57,Other,Stage I,Other
+TCGA-D1-A2G0,hypoxic,70,0.71,WHITE,Stage I,Other
+TCGA-D1-A3DG,normoxic,81,0.9,WHITE,Stage IV,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-DI-A1BU,normoxic,55,0.61,WHITE,Stage II,Other
+TCGA-DI-A1C3,normoxic,38,0.54,WHITE,Stage I,Other
+TCGA-DI-A2QT,hypoxic,51,0.82,Other,Stage III,Uterine.serous.endometrial.adenocarcinoma
+TCGA-DI-A2QY,normoxic,64,0.7,WHITE,Stage II,Uterine.serous.endometrial.adenocarcinoma
+TCGA-E6-A2P8,hypoxic,53,0.62,BLACK OR AFRICAN AMERICAN,Stage IV,Other
+TCGA-E6-A2P9,normoxic,65,0.83,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-EO-A1Y7,hypoxic,65,0.86,Other,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-EO-A22U,hypoxic,83,0.74,Other,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-EO-A22X,hypoxic,36,0.69,Other,Stage III,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-EO-A3AS,normoxic,86,0.76,Other,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-EO-A3AV,hypoxic,51,0.55,Other,Stage III,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-EO-A3AY,hypoxic,58,0.72,Other,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-EO-A3AZ,hypoxic,80,0.52,Other,Stage I,Other
+TCGA-EO-A3B1,normoxic,63,0.62,Other,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-EY-A1GO,normoxic,65,0.89,WHITE,Stage III,Other
+TCGA-EY-A1GP,normoxic,54,0.77,BLACK OR AFRICAN AMERICAN,Stage I,Other
+TCGA-EY-A210,normoxic,82,0.82,BLACK OR AFRICAN AMERICAN,Stage III,Other
+TCGA-EY-A2OO,normoxic,56,0.83,WHITE,Stage I,Other
+TCGA-EY-A2OP,hypoxic,63,0.82,WHITE,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-EY-A3L3,normoxic,82,0.89,BLACK OR AFRICAN AMERICAN,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-EY-A3QX,hypoxic,64,0.71,WHITE,Stage IV,Uterine.serous.endometrial.adenocarcinoma
+TCGA-EY-A4KR,hypoxic,56,0.63,BLACK OR AFRICAN AMERICAN,Stage III,Other
+TCGA-EY-A547,hypoxic,75,0.91,BLACK OR AFRICAN AMERICAN,Stage I,Endometrioid endometrial adenocarcinoma
+TCGA-EY-A548,normoxic,83,0.75,BLACK OR AFRICAN AMERICAN,Stage I,Endometrioid endometrial adenocarcinoma
+TCGA-EY-A5W2,hypoxic,72,0.84,BLACK OR AFRICAN AMERICAN,Stage I,Endometrioid endometrial adenocarcinoma
+TCGA-FI-A2EY,hypoxic,63,0.84,WHITE,Stage III,Uterine.serous.endometrial.adenocarcinoma
+TCGA-H5-A2HR,hypoxic,71,0.83,BLACK OR AFRICAN AMERICAN,Stage I,Grader3Endometrioid.endometrial.adenocarcinoma
+TCGA-KJ-A3U4,normoxic,55,0.76,WHITE,Stage I,Uterine.serous.endometrial.adenocarcinoma
+TCGA-QS-A5YQ,normoxic,55,0.81,BLACK OR AFRICAN AMERICAN,Stage III,Endometrioid endometrial adenocarcinoma
+TCGA-QS-A5YR,normoxic,61,0.56,BLACK OR AFRICAN AMERICAN,Stage III,Endometrioid endometrial adenocarcinoma

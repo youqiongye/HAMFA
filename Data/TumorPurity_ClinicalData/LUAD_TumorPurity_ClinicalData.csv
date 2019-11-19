@@ -1,0 +1,254 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,gender,race,pathologic_stage,histological_type,tobacco_smoking_history
+TCGA-05-4250,hypoxic,79,0.57,FEMALE,Other,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-05-4382,hypoxic,68,0.19,MALE,Other,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-05-4384,normoxic,66,0.16,MALE,Other,Stage III,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-05-4390,hypoxic,58,0.73,FEMALE,Other,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-05-4395,hypoxic,76,0.77,MALE,Other,Stage III,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-05-4396,normoxic,76,0.71,MALE,Other,Stage III,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-05-4398,hypoxic,47,0.53,FEMALE,Other,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-05-4402,hypoxic,57,0.54,FEMALE,Other,Stage IV,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-05-4405,normoxic,74,0.23,FEMALE,Other,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-05-4415,hypoxic,57,0.8,MALE,Other,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-05-4418,hypoxic,69,0.49,MALE,Other,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-05-4420,hypoxic,41,0.74,MALE,Other,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-05-4426,hypoxic,71,0.67,MALE,Other,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-05-4433,normoxic,82,0.53,MALE,Other,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-05-4434,hypoxic,67,0.29,FEMALE,Other,Stage IV,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-05-5428,hypoxic,57,0.88,MALE,Other,Stage II,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-05-5429,hypoxic,60,0.66,MALE,Other,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-35-3615,normoxic,57,0.64,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-35-4122,hypoxic,69,0.24,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-35-4123,hypoxic,38,0.2,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-35-5375,hypoxic,61,0.69,MALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-38-4626,normoxic,57,0.99,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-38-4627,hypoxic,64,0.98,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-38-4629,hypoxic,68,0.46,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-38-4631,hypoxic,72,0.6,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-38-4632,hypoxic,42,0.76,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-38-7271,normoxic,72,0.66,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-38-A44F,normoxic,80,0.87,MALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-44-2655,normoxic,65,0.26,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-2657,normoxic,74,0.16,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-2659,normoxic,65,0.53,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-2661,normoxic,69,0.22,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-2662,hypoxic,65,0.97,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-2665,hypoxic,55,0.42,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-2666,normoxic,43,0.57,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-2668,hypoxic,51,0.24,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-3398,hypoxic,77,0.09,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-3918,hypoxic,60,0.25,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-3919,hypoxic,71,0.2,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-4112,hypoxic,60,0.55,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-5644,hypoxic,51,0.83,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-5645,normoxic,61,0.59,FEMALE,BLACK OR AFRICAN AMERICAN,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-6146,normoxic,64,0.76,MALE,WHITE,Stage II,Other,NonSmoker
+TCGA-44-6147,normoxic,67,0.22,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-6148,normoxic,60,0.8,MALE,WHITE,Stage I,Other,NonSmoker
+TCGA-44-6774,normoxic,56,0.35,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-6776,normoxic,60,0.63,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-6777,hypoxic,85,0.21,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-6778,normoxic,59,0.39,MALE,BLACK OR AFRICAN AMERICAN,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-7659,normoxic,70,0.56,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-7660,hypoxic,72,0.71,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-7661,hypoxic,69,0.12,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-7667,hypoxic,49,0.64,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-8119,hypoxic,73,0.77,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-A479,normoxic,73,0.16,FEMALE,BLACK OR AFRICAN AMERICAN,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-44-A47B,normoxic,79,0.54,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-44-A4SS,normoxic,73,0.19,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-49-4488,hypoxic,74,0.73,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-49-4494,hypoxic,77,0.46,MALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-49-4501,hypoxic,67,0.51,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-49-4505,hypoxic,61,0.55,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-49-4506,hypoxic,68,0.29,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-49-4507,hypoxic,73,0.39,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-49-6744,normoxic,64,0.26,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-49-6761,hypoxic,68,0.34,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-50-5044,hypoxic,72,0.51,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Other
+TCGA-50-5045,hypoxic,57,0.15,FEMALE,BLACK OR AFRICAN AMERICAN,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Other
+TCGA-50-5055,normoxic,79,0.14,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Mixed Subtype,Other
+TCGA-50-5066,hypoxic,72,0.22,MALE,BLACK OR AFRICAN AMERICAN,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-50-5072,hypoxic,74,0.45,MALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-50-5931,hypoxic,75,0.9,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-50-5932,normoxic,75,0.85,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Other
+TCGA-50-5933,hypoxic,72,0.3,MALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Other
+TCGA-50-5939,hypoxic,85,0.22,MALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-50-5942,normoxic,67,0.7,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-50-5944,normoxic,69,0.84,FEMALE,WHITE,Stage I,Other,Other
+TCGA-50-6590,hypoxic,72,0.18,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-50-6592,hypoxic,71,0.31,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-50-6595,hypoxic,74,0.12,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-50-6673,normoxic,84,0.64,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-53-7626,normoxic,76,0.41,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-6642,hypoxic,63,0.39,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-6712,hypoxic,71,0.2,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-6969,hypoxic,52,0.21,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-6971,normoxic,59,0.16,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-6972,normoxic,72,0.89,MALE,WHITE,Stage I,Other,Smoker
+TCGA-55-6979,normoxic,59,0.23,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-6980,hypoxic,56,0.24,MALE,WHITE,Stage I,Lung Bronchioloalveolar Carcinoma Nonmucinous,NonSmoker
+TCGA-55-6982,hypoxic,79,0.15,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-6983,normoxic,81,0.17,MALE,WHITE,Stage II,Other,Smoker
+TCGA-55-7281,normoxic,70,0.52,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-7283,normoxic,76,0.6,FEMALE,WHITE,Stage III,Lung Bronchioloalveolar Carcinoma Nonmucinous,NonSmoker
+TCGA-55-7284,normoxic,74,0.99,MALE,WHITE,Stage II,Lung Bronchioloalveolar Carcinoma Nonmucinous,NonSmoker
+TCGA-55-7573,normoxic,72,0.2,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-7574,normoxic,64,0.17,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-7576,normoxic,54,0.59,MALE,BLACK OR AFRICAN AMERICAN,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-7726,hypoxic,72,0.27,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-7728,normoxic,64,0.28,FEMALE,Other,Stage I,Other,Smoker
+TCGA-55-7903,hypoxic,64,0.58,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-7914,normoxic,71,0.55,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-7994,hypoxic,81,0.61,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-7995,hypoxic,73,0.53,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8085,hypoxic,64,0.54,MALE,WHITE,Stage I,Other,Smoker
+TCGA-55-8087,normoxic,59,0.83,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-8090,hypoxic,80,0.76,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8094,hypoxic,51,0.81,MALE,WHITE,Stage IV,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8096,hypoxic,67,0.2,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8097,normoxic,60,0.57,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8204,hypoxic,87,0.22,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-8205,hypoxic,76,0.15,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8206,normoxic,56,0.55,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-8207,normoxic,73,0.7,MALE,WHITE,Stage I,Other,NonSmoker
+TCGA-55-8301,hypoxic,58,0.2,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8505,hypoxic,62,0.21,MALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-8510,normoxic,55,0.21,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8512,normoxic,41,0.2,MALE,WHITE,Stage IV,Lung Bronchioloalveolar Carcinoma Nonmucinous,Smoker
+TCGA-55-8513,normoxic,77,0.98,FEMALE,WHITE,Stage II,Other,NonSmoker
+TCGA-55-8514,normoxic,70,0.7,FEMALE,BLACK OR AFRICAN AMERICAN,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8619,normoxic,72,0.13,FEMALE,WHITE,Stage II,Other,NonSmoker
+TCGA-55-8620,hypoxic,60,0.64,MALE,WHITE,Stage IV,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-8621,normoxic,75,0.15,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-A48X,normoxic,63,0.22,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-A48Z,hypoxic,60,0.51,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-55-A490,hypoxic,78,0.65,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-A492,normoxic,70,0.68,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-A493,hypoxic,54,0.17,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-55-A494,normoxic,61,0.85,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-A4DF,hypoxic,88,0.49,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-55-A4DG,normoxic,71,0.58,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-62-8395,normoxic,80,0.63,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-62-8398,hypoxic,55,0.72,MALE,WHITE,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-62-A46O,hypoxic,65,0.88,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-62-A46P,normoxic,65,0.67,MALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-62-A46R,normoxic,54,0.5,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-62-A46S,normoxic,73,0.6,MALE,WHITE,Stage I,Other,Smoker
+TCGA-62-A471,hypoxic,64,0.57,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-62-A472,hypoxic,70,0.52,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-64-1676,hypoxic,58,0.53,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-64-1677,hypoxic,77,0.36,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-64-1678,hypoxic,70,0.72,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-64-1679,hypoxic,58,0.38,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-64-1680,normoxic,63,0.75,MALE,WHITE,Stage IV,Other,NonSmoker
+TCGA-64-5775,hypoxic,71,0.81,MALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-64-5781,hypoxic,55,0.24,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-64-5815,hypoxic,74,0.2,MALE,WHITE,Stage II,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-67-3770,hypoxic,70,0.65,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-67-3771,hypoxic,77,0.54,FEMALE,BLACK OR AFRICAN AMERICAN,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-67-3774,normoxic,73,0.45,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-67-4679,normoxic,69,0.68,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-67-6217,normoxic,73,0.21,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-69-7760,hypoxic,73,0.74,MALE,WHITE,Stage II,Other,NonSmoker
+TCGA-69-7761,normoxic,84,0.2,MALE,WHITE,Stage I,Other,NonSmoker
+TCGA-69-7763,normoxic,69,0.67,MALE,WHITE,Stage I,Other,Smoker
+TCGA-69-7764,normoxic,75,0.77,MALE,WHITE,Stage I,Other,NonSmoker
+TCGA-69-7765,hypoxic,56,0.19,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-69-7973,normoxic,42,0.71,FEMALE,WHITE,Stage I,Other,Smoker
+TCGA-69-7974,hypoxic,54,0.35,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-69-7978,hypoxic,59,0.24,MALE,WHITE,Stage II,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-69-7980,normoxic,69,0.68,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-69-8254,normoxic,85,0.23,MALE,WHITE,Other,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-71-6725,normoxic,48,0.67,FEMALE,Other,Stage I,Other,Smoker
+TCGA-73-4662,normoxic,65,0.59,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-73-4666,hypoxic,52,0.53,FEMALE,WHITE,Stage IV,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-73-4670,hypoxic,69,0.76,FEMALE,WHITE,Stage IV,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-73-4676,hypoxic,45,0.62,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-73-4677,normoxic,74,0.57,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-73-7498,normoxic,58,0.57,FEMALE,WHITE,Stage I,Lung Bronchioloalveolar Carcinoma Nonmucinous,Smoker
+TCGA-78-7143,normoxic,62,0.7,FEMALE,WHITE,Stage I,Lung Bronchioloalveolar Carcinoma Nonmucinous,NonSmoker
+TCGA-78-7145,hypoxic,52,0.85,FEMALE,WHITE,Stage IV,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-78-7146,hypoxic,71,0.71,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-7148,hypoxic,71,0.67,MALE,WHITE,Stage II,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-7149,normoxic,71,0.71,MALE,WHITE,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-7150,hypoxic,59,0.54,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-78-7152,normoxic,65,0.5,MALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-7156,normoxic,62,0.79,MALE,WHITE,Stage IV,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-78-7158,normoxic,59,0.93,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-7160,normoxic,61,0.88,MALE,WHITE,Stage IV,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-7161,normoxic,69,0.86,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-7162,normoxic,75,0.25,MALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-7166,hypoxic,84,0.84,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-78-7167,normoxic,77,0.94,MALE,WHITE,Stage IV,Other,Smoker
+TCGA-78-7537,normoxic,72,0.78,MALE,Other,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-78-7539,normoxic,75,0.68,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-78-7540,normoxic,66,0.59,FEMALE,WHITE,Stage I,Other,NonSmoker
+TCGA-78-7542,hypoxic,56,0.59,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-78-7633,normoxic,67,0.74,MALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-8648,normoxic,58,0.99,FEMALE,Other,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-78-8655,normoxic,77,0.66,FEMALE,Other,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-78-8660,hypoxic,69,0.19,MALE,Other,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-83-5908,normoxic,59,0.18,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-86-6562,hypoxic,52,0.54,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-86-7711,hypoxic,70,0.18,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-86-7714,normoxic,61,0.64,FEMALE,BLACK OR AFRICAN AMERICAN,Stage III,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-86-7955,hypoxic,62,0.83,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-86-8054,hypoxic,61,0.8,MALE,WHITE,Stage II,Other,Smoker
+TCGA-86-8055,hypoxic,79,0.75,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-86-8056,normoxic,63,0.6,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-86-8073,normoxic,58,0.24,MALE,WHITE,Stage I,Lung Bronchioloalveolar Carcinoma Nonmucinous,Smoker
+TCGA-86-8074,hypoxic,62,0.68,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-86-8281,normoxic,75,0.68,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-86-8359,normoxic,52,0.5,MALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-86-8585,hypoxic,57,0.18,MALE,WHITE,Stage I,Other,NonSmoker
+TCGA-86-8669,normoxic,64,0.75,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-86-8671,normoxic,72,0.12,FEMALE,WHITE,Stage II,Other,NonSmoker
+TCGA-86-8673,hypoxic,61,0.71,MALE,WHITE,Stage I,Lung Bronchioloalveolar Carcinoma Nonmucinous,Smoker
+TCGA-86-8674,normoxic,50,0.22,MALE,WHITE,Stage II,Other,Smoker
+TCGA-86-A456,normoxic,78,0.17,FEMALE,Other,Stage I,Other,Smoker
+TCGA-86-A4P7,normoxic,63,0.11,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-86-A4P8,normoxic,59,0.99,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-91-6828,normoxic,70,0.61,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-91-6829,normoxic,78,0.69,MALE,WHITE,Stage I,Lung Bronchioloalveolar Carcinoma Nonmucinous,Smoker
+TCGA-91-6835,normoxic,81,0.2,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-91-6836,hypoxic,52,0.81,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-91-6840,normoxic,59,0.69,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-91-6849,normoxic,75,0.59,FEMALE,BLACK OR AFRICAN AMERICAN,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-91-7771,normoxic,62,0.5,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-91-8497,normoxic,75,0.19,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-91-A4BC,normoxic,59,0.18,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-93-7347,normoxic,76,0.18,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-93-7348,normoxic,75,0.2,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-93-8067,hypoxic,77,0.5,MALE,Other,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-95-7948,normoxic,42,0.82,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-97-7546,normoxic,76,0.45,FEMALE,WHITE,Stage I,Other,NonSmoker
+TCGA-97-7552,normoxic,70,0.97,MALE,WHITE,Stage I,Other,NonSmoker
+TCGA-97-7553,normoxic,58,0.19,FEMALE,WHITE,Stage I,Lung Bronchioloalveolar Carcinoma Nonmucinous,Smoker
+TCGA-97-7938,normoxic,76,0.58,FEMALE,WHITE,Stage I,Lung Bronchioloalveolar Carcinoma Nonmucinous,NonSmoker
+TCGA-97-7941,normoxic,72,0.18,FEMALE,WHITE,Stage I,Other,NonSmoker
+TCGA-97-8172,normoxic,75,0.21,FEMALE,WHITE,Stage I,Other,NonSmoker
+TCGA-97-8174,normoxic,67,0.18,MALE,WHITE,Stage II,Other,NonSmoker
+TCGA-97-8175,hypoxic,55,0.24,FEMALE,WHITE,Stage I,Other,Other
+TCGA-97-8177,hypoxic,59,0.22,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-97-8179,normoxic,72,0.37,MALE,WHITE,Stage I,Other,NonSmoker
+TCGA-97-8552,normoxic,55,0.35,FEMALE,WHITE,Stage I,Lung Bronchioloalveolar Carcinoma Nonmucinous,NonSmoker
+TCGA-97-A4M2,normoxic,66,0.11,MALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,Smoker
+TCGA-97-A4M7,normoxic,74,0.25,MALE,WHITE,Stage I,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-99-8033,hypoxic,74,0.18,FEMALE,WHITE,Stage IV,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-J2-8194,normoxic,69,0.45,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Mixed Subtype,NonSmoker
+TCGA-J2-A4AE,normoxic,77,0.52,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-J2-A4AG,normoxic,66,0.15,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-L4-A4E6,normoxic,67,0.88,MALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-L9-A443,normoxic,63,0.63,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-L9-A5IP,hypoxic,40,0.66,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-L9-A7SV,normoxic,69,0.85,MALE,BLACK OR AFRICAN AMERICAN,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-MP-A4SV,hypoxic,67,0.46,MALE,Other,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-MP-A4SY,hypoxic,61,0.15,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-MP-A4T6,normoxic,76,0.66,FEMALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-MP-A4TD,normoxic,71,0.19,MALE,WHITE,Stage III,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-MP-A4TF,hypoxic,58,0.51,FEMALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-MP-A4TH,normoxic,70,0.36,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-MP-A4TI,hypoxic,72,0.14,MALE,WHITE,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-MP-A4TJ,normoxic,62,0.16,FEMALE,Other,Stage I,Other,Smoker
+TCGA-MP-A4TK,hypoxic,56,0.32,FEMALE,Other,Stage II,Lung Adenocarcinoma Not Otherwise Specified NOS,Smoker
+TCGA-MP-A5C7,normoxic,76,0.91,FEMALE,WHITE,Stage I,Lung Adenocarcinoma Not Otherwise Specified NOS,NonSmoker

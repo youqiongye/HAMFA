@@ -1,0 +1,214 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,gender,pathologic_stage,histological_type,tobacco_smoking_history
+TCGA-18-3406,hypoxic,67,0.47,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-18-3408,hypoxic,77,0.75,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-18-3411,hypoxic,63,0.77,FEMALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-18-3412,hypoxic,52,0.82,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-18-3415,hypoxic,77,0.64,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-18-3416,hypoxic,83,0.66,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-18-3417,hypoxic,65,0.36,MALE,Stage IV,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-18-3421,hypoxic,65,0.61,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-18-5592,hypoxic,57,0.75,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-18-5595,hypoxic,50,0.9,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-21-1072,hypoxic,75,0.77,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-21-1075,hypoxic,57,0.83,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-21-1076,normoxic,54,0.21,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-21-1079,hypoxic,71,0.74,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-21-1082,normoxic,61,0.65,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Other
+TCGA-21-5782,hypoxic,68,0.45,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-21-5783,hypoxic,76,0.7,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-21-5786,hypoxic,64,0.69,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-21-A5DI,hypoxic,77,0.32,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-22-0944,hypoxic,61,0.64,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-1000,normoxic,76,0.15,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-1002,normoxic,69,0.17,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-1005,normoxic,63,0.12,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-1011,hypoxic,73,0.15,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-1012,hypoxic,80,0.41,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-1016,normoxic,65,0.24,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-22-4591,hypoxic,80,0.83,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-4593,hypoxic,77,0.72,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-4599,hypoxic,73,0.51,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-4607,hypoxic,75,0.59,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-22-4613,hypoxic,73,0.57,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-22-5472,normoxic,67,0.62,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-5473,hypoxic,78,0.68,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-22-5478,hypoxic,79,0.57,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-5480,normoxic,66,0.65,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-5482,hypoxic,81,0.69,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-5485,hypoxic,58,0.72,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-22-5489,normoxic,64,0.38,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-33-4532,hypoxic,68,0.82,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-33-4547,normoxic,68,0.52,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-33-4582,hypoxic,55,0.56,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-33-4583,hypoxic,73,0.64,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-33-4589,hypoxic,62,0.25,FEMALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-33-6737,hypoxic,71,0.58,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-33-6738,hypoxic,80,0.32,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-34-2600,normoxic,76,0.92,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-34-2608,normoxic,84,0.25,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-34-5236,hypoxic,60,0.26,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Other
+TCGA-34-5239,normoxic,75,0.57,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Other
+TCGA-37-3783,hypoxic,51,0.34,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Other
+TCGA-37-3789,hypoxic,65,0.59,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-37-4129,normoxic,52,0.28,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-37-4132,hypoxic,61,0.53,FEMALE,Stage IV,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-37-4133,hypoxic,63,0.79,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-37-4135,hypoxic,68,0.8,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-39-5016,normoxic,44,0.58,MALE,Stage II,Other,Smoker
+TCGA-39-5019,hypoxic,70,0.6,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-39-5024,hypoxic,65,0.76,FEMALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-39-5027,hypoxic,73,0.63,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-39-5029,hypoxic,67,0.45,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-39-5030,normoxic,81,0.18,FEMALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-39-5031,hypoxic,76,0.46,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-39-5036,hypoxic,73,0.59,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-39-5037,hypoxic,65,0.61,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-39-5039,hypoxic,76,0.96,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-39-5040,normoxic,59,0.73,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-2578,hypoxic,59,0.43,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-3394,hypoxic,52,0.83,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-3920,hypoxic,71,0.7,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-5668,normoxic,78,0.42,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-43-5670,hypoxic,70,0.7,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-43-6770,hypoxic,59,0.62,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-6771,hypoxic,85,0.48,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-43-7658,normoxic,75,0.82,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-8115,normoxic,72,0.36,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-A474,hypoxic,66,0.71,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-A475,normoxic,67,0.27,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-A56U,normoxic,76,0.13,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-43-A56V,hypoxic,61,0.49,MALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-46-6025,hypoxic,71,0.64,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-51-4079,hypoxic,73,0.65,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-51-4080,normoxic,65,0.85,MALE,Stage III,Other,Smoker
+TCGA-52-7809,normoxic,74,0.62,MALE,Stage I,Other,Smoker
+TCGA-52-7810,hypoxic,60,0.67,FEMALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-52-7811,hypoxic,67,0.2,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-56-5898,hypoxic,69,0.51,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-56-6545,hypoxic,77,0.56,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-56-7222,hypoxic,60,0.71,MALE,Other,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-56-7580,hypoxic,84,0.47,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-56-7730,hypoxic,73,0.89,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-56-8504,hypoxic,74,0.49,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-56-8628,normoxic,78,0.22,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-56-A49D,hypoxic,67,0.5,MALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-56-A4ZJ,normoxic,75,0.15,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-56-A5DS,normoxic,72,0.17,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-58-8386,hypoxic,75,0.39,MALE,Stage IV,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-58-8387,hypoxic,60,0.22,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-58-8388,normoxic,60,0.67,MALE,Stage I,Other,Smoker
+TCGA-58-8390,normoxic,70,0.7,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-58-8391,hypoxic,57,0.71,FEMALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-58-8392,hypoxic,70,0.81,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-58-A46L,hypoxic,73,0.54,MALE,Stage III,Other,Other
+TCGA-58-A46N,hypoxic,52,0.84,MALE,Stage I,Other,Smoker
+TCGA-60-2695,normoxic,74,0.8,FEMALE,Stage I,Other,NonSmoker
+TCGA-60-2697,normoxic,41,0.12,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Other
+TCGA-60-2698,hypoxic,62,0.48,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-60-2703,hypoxic,73,0.25,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-60-2704,normoxic,73,0.18,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-60-2707,hypoxic,70,0.58,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-60-2708,hypoxic,64,0.7,FEMALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-60-2715,normoxic,51,0.17,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-60-2716,normoxic,39,0.04,MALE,Stage II,Other,NonSmoker
+TCGA-60-2719,hypoxic,83,0.81,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-60-2720,hypoxic,60,0.22,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-60-2723,hypoxic,74,0.45,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-60-2724,hypoxic,47,0.42,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2734,hypoxic,62,0.17,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2737,hypoxic,72,0.45,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-66-2753,hypoxic,69,0.57,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2756,hypoxic,68,0.78,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2757,normoxic,65,0.84,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2759,hypoxic,66,0.59,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-66-2765,hypoxic,64,0.23,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2766,hypoxic,54,0.8,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2768,hypoxic,57,0.55,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2771,hypoxic,60,0.36,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2773,hypoxic,69,0.57,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-66-2777,hypoxic,71,0.4,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2778,hypoxic,68,0.21,FEMALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2780,hypoxic,65,0.33,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-66-2781,hypoxic,67,0.5,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2782,hypoxic,71,0.43,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2783,hypoxic,67,0.55,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2786,hypoxic,68,0.58,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2788,hypoxic,56,0.36,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2789,hypoxic,73,0.59,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2791,hypoxic,66,0.45,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2792,hypoxic,58,0.8,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-66-2800,hypoxic,70,0.67,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-68-7755,hypoxic,60,0.77,FEMALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-68-7756,hypoxic,84,0.22,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-68-7757,normoxic,74,0.26,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-68-8251,normoxic,78,0.41,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-68-A59J,hypoxic,74,0.52,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-70-6722,hypoxic,47,0.22,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-70-6723,hypoxic,65,0.89,MALE,Stage II,Other,NonSmoker
+TCGA-77-6843,normoxic,74,0.64,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-6845,hypoxic,69,0.83,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-7138,hypoxic,67,0.38,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-77-7140,hypoxic,69,0.85,FEMALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-77-7141,normoxic,64,0.76,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-7337,hypoxic,65,0.46,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-7463,hypoxic,75,0.58,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8009,hypoxic,68,0.89,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8130,hypoxic,69,0.49,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8131,hypoxic,72,0.18,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8133,normoxic,74,0.59,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8136,hypoxic,74,0.21,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8138,hypoxic,74,0.21,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8140,normoxic,66,0.28,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8143,hypoxic,76,0.74,MALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8144,hypoxic,70,0.74,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8148,hypoxic,68,0.79,MALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-8153,hypoxic,77,0.77,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-77-A5G6,hypoxic,66,0.76,MALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-A5G8,hypoxic,70,0.37,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-77-A5GB,hypoxic,90,0.15,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-6175,normoxic,63,0.19,FEMALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-85-6798,hypoxic,57,0.55,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-7699,normoxic,73,0.62,MALE,Stage III,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-85-7843,hypoxic,50,0.64,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-8048,normoxic,62,0.15,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-8052,hypoxic,53,0.48,MALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-8276,hypoxic,62,0.31,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-8277,hypoxic,70,0.62,MALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-85-8287,normoxic,72,0.39,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-8354,hypoxic,53,0.84,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-8355,normoxic,63,0.17,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-85-8479,hypoxic,66,0.62,MALE,Stage I,Other,Smoker
+TCGA-85-8481,hypoxic,70,0.17,MALE,Stage II,Other,Smoker
+TCGA-85-8580,normoxic,52,0.18,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-8664,hypoxic,73,0.67,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-A4CN,hypoxic,56,0.44,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-A4JC,hypoxic,84,0.93,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-A4PA,normoxic,61,0.53,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-A4QQ,hypoxic,68,0.5,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-A4QR,hypoxic,67,0.78,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-A50Z,hypoxic,57,0.2,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-A510,normoxic,74,0.66,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-85-A513,normoxic,60,0.59,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-85-A53L,hypoxic,63,0.29,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-90-6837,hypoxic,64,0.68,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-90-7766,normoxic,66,0.54,FEMALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-90-7769,hypoxic,55,0.73,MALE,Stage II,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-90-A4ED,normoxic,69,0.62,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-90-A59Q,normoxic,61,0.17,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-92-7341,hypoxic,71,0.54,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-92-8063,hypoxic,52,0.42,MALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-92-8065,normoxic,74,0.5,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-94-7033,hypoxic,73,0.26,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-94-7943,normoxic,80,0.72,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-94-A4VJ,hypoxic,71,0.6,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-96-8169,normoxic,67,0.37,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-96-8170,normoxic,75,0.3,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-96-A4JK,hypoxic,65,0.61,MALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-96-A4JL,normoxic,78,0.2,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-98-7454,normoxic,73,0.19,MALE,Stage I,Lung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-98-8020,hypoxic,56,0.56,FEMALE,Stage III,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,NonSmoker
+TCGA-98-8022,normoxic,61,0.51,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-L3-A524,hypoxic,45,0.76,FEMALE,Stage II,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-MF-A522,hypoxic,54,0.81,MALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker
+TCGA-NC-A5HG,hypoxic,59,0.87,MALE,Stage III,Other,Smoker
+TCGA-NC-A5HI,hypoxic,68,0.58,FEMALE,Stage I,Squamous Cell Carcinoma  Not Otherwise SpecifiedLung Squamous Cell Carcinoma Not Otherwise Specified NOS,Smoker

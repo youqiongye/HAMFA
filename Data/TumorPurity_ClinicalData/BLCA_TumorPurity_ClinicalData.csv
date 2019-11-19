@@ -1,0 +1,181 @@
+barcode,myclusters,Purity,gender,race,pathologic_stage,tobacco_smoking_history
+TCGA-4Z-AA7M,normoxic,0.71,Other,Other,Other,Other
+TCGA-BL-A0C8,normoxic,0.77,MALE,WHITE,Stage I,NonSmoker
+TCGA-BL-A13I,hypoxic,0.34,FEMALE,WHITE,Stage III,Smoker
+TCGA-BL-A13J,hypoxic,0.74,MALE,WHITE,Stage IV,Smoker
+TCGA-BL-A3JM,normoxic,0.76,MALE,WHITE,Stage III,Smoker
+TCGA-BL-A5ZZ,hypoxic,0.41,FEMALE,WHITE,Stage III,Smoker
+TCGA-BT-A0S7,normoxic,0.55,MALE,WHITE,Stage III,NonSmoker
+TCGA-BT-A0YX,hypoxic,0.51,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-BT-A20J,hypoxic,0.51,MALE,WHITE,Stage II,NonSmoker
+TCGA-BT-A20N,hypoxic,0.73,MALE,Other,Stage III,Smoker
+TCGA-BT-A20O,normoxic,0.66,MALE,WHITE,Stage III,Other
+TCGA-BT-A20P,hypoxic,0.93,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-BT-A20Q,normoxic,0.61,MALE,WHITE,Stage IV,NonSmoker
+TCGA-BT-A20T,normoxic,0.71,MALE,WHITE,Stage IV,NonSmoker
+TCGA-BT-A20U,hypoxic,0.47,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-BT-A20V,hypoxic,0.77,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,Other
+TCGA-BT-A20W,normoxic,0.67,MALE,WHITE,Stage II,Other
+TCGA-BT-A20X,hypoxic,0.47,MALE,WHITE,Stage IV,Other
+TCGA-BT-A2LA,hypoxic,0.94,MALE,WHITE,Stage III,NonSmoker
+TCGA-BT-A2LB,hypoxic,0.61,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-BT-A2LD,hypoxic,0.6,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-BT-A3PH,hypoxic,0.92,MALE,WHITE,Stage IV,NonSmoker
+TCGA-BT-A3PK,hypoxic,0.17,MALE,WHITE,Stage II,NonSmoker
+TCGA-BT-A42C,normoxic,0.76,MALE,WHITE,Stage II,Smoker
+TCGA-BT-A42E,hypoxic,0.59,MALE,WHITE,Stage III,Other
+TCGA-BT-A42F,hypoxic,0.12,MALE,WHITE,Stage IV,NonSmoker
+TCGA-C4-A0EZ,normoxic,0.76,FEMALE,Other,Stage IV,Smoker
+TCGA-C4-A0F0,hypoxic,0.66,MALE,Other,Stage II,Smoker
+TCGA-C4-A0F1,hypoxic,0.66,MALE,Other,Stage III,Smoker
+TCGA-C4-A0F6,normoxic,0.74,FEMALE,Other,Stage III,Smoker
+TCGA-C4-A0F7,hypoxic,0.76,MALE,Other,Stage IV,NonSmoker
+TCGA-CF-A1HR,normoxic,0.52,MALE,ASIAN,Other,NonSmoker
+TCGA-CF-A1HS,hypoxic,0.66,FEMALE,ASIAN,Other,NonSmoker
+TCGA-CF-A3MG,hypoxic,0.91,MALE,ASIAN,Stage II,NonSmoker
+TCGA-CF-A47W,normoxic,0.76,MALE,ASIAN,Stage II,Smoker
+TCGA-CU-A0YN,hypoxic,0.51,MALE,WHITE,Stage III,Smoker
+TCGA-CU-A0YO,normoxic,0.46,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CU-A0YR,normoxic,0.57,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CU-A3KJ,hypoxic,0.88,MALE,WHITE,Stage III,NonSmoker
+TCGA-CU-A3QU,normoxic,0.95,MALE,WHITE,Stage IV,Smoker
+TCGA-CU-A3YL,normoxic,0.76,MALE,WHITE,Stage III,Other
+TCGA-CU-A5W6,normoxic,0.65,MALE,WHITE,Stage III,Smoker
+TCGA-CU-A72E,hypoxic,0.74,MALE,WHITE,Stage IV,NonSmoker
+TCGA-DK-A1A3,normoxic,0.68,MALE,WHITE,Stage IV,NonSmoker
+TCGA-DK-A1A5,hypoxic,0.71,MALE,WHITE,Stage II,NonSmoker
+TCGA-DK-A1A6,normoxic,0.85,MALE,WHITE,Stage IV,Smoker
+TCGA-DK-A1A7,normoxic,0.82,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-DK-A1AB,hypoxic,0.52,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-DK-A2HX,normoxic,0.63,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-DK-A2I2,normoxic,0.46,FEMALE,WHITE,Stage IV,Smoker
+TCGA-DK-A2I4,normoxic,0.31,MALE,WHITE,Stage III,NonSmoker
+TCGA-DK-A2I6,hypoxic,0.79,MALE,WHITE,Stage IV,NonSmoker
+TCGA-DK-A3IL,normoxic,0.85,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-DK-A3IM,hypoxic,0.88,MALE,WHITE,Stage III,NonSmoker
+TCGA-DK-A3IN,normoxic,0.79,MALE,WHITE,Stage III,NonSmoker
+TCGA-DK-A3IQ,normoxic,0.21,MALE,WHITE,Stage III,NonSmoker
+TCGA-DK-A3IU,hypoxic,0.45,MALE,WHITE,Stage II,Smoker
+TCGA-DK-A3IV,normoxic,0.54,MALE,WHITE,Stage II,Smoker
+TCGA-DK-A3WW,hypoxic,0.55,MALE,WHITE,Stage III,NonSmoker
+TCGA-DK-A3WY,normoxic,0.81,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-DK-A3X1,normoxic,0.6,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-DK-A3X2,hypoxic,0.94,MALE,WHITE,Stage IV,NonSmoker
+TCGA-DK-A6AV,normoxic,0.6,FEMALE,ASIAN,Stage II,Smoker
+TCGA-DK-A6B1,normoxic,0.93,MALE,WHITE,Stage II,NonSmoker
+TCGA-DK-A6B2,normoxic,0.55,MALE,WHITE,Stage IV,Smoker
+TCGA-DK-A6B5,normoxic,0.74,MALE,WHITE,Stage IV,NonSmoker
+TCGA-DK-A6B6,normoxic,0.67,MALE,WHITE,Stage II,NonSmoker
+TCGA-E5-A2PC,hypoxic,0.92,FEMALE,WHITE,Stage IV,Smoker
+TCGA-E5-A4TZ,normoxic,0.85,MALE,WHITE,Stage IV,Smoker
+TCGA-E5-A4U1,normoxic,0.92,MALE,Other,Stage II,Smoker
+TCGA-E7-A3Y1,normoxic,0.75,MALE,WHITE,Stage II,NonSmoker
+TCGA-E7-A4IJ,normoxic,0.71,MALE,ASIAN,Stage II,Smoker
+TCGA-E7-A519,normoxic,0.1,MALE,WHITE,Stage II,Smoker
+TCGA-E7-A541,normoxic,0.21,MALE,WHITE,Stage II,Other
+TCGA-E7-A677,hypoxic,0.86,MALE,ASIAN,Stage II,NonSmoker
+TCGA-E7-A7DV,hypoxic,0.38,MALE,WHITE,Stage IV,Other
+TCGA-FD-A3B3,hypoxic,0.17,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-FD-A3B4,hypoxic,0.61,FEMALE,BLACK OR AFRICAN AMERICAN,Stage III,Smoker
+TCGA-FD-A3B5,hypoxic,0.7,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,NonSmoker
+TCGA-FD-A3B6,hypoxic,0.61,MALE,WHITE,Stage II,Smoker
+TCGA-FD-A3B7,hypoxic,0.22,MALE,BLACK OR AFRICAN AMERICAN,Stage III,Smoker
+TCGA-FD-A3B8,normoxic,0.91,MALE,WHITE,Stage II,Smoker
+TCGA-FD-A3N5,hypoxic,0.78,MALE,BLACK OR AFRICAN AMERICAN,Stage II,NonSmoker
+TCGA-FD-A3N6,hypoxic,0.85,FEMALE,BLACK OR AFRICAN AMERICAN,Stage II,Smoker
+TCGA-FD-A3NA,hypoxic,0.61,MALE,WHITE,Stage II,NonSmoker
+TCGA-FD-A3SJ,normoxic,0.57,MALE,WHITE,Stage IV,Smoker
+TCGA-FD-A3SM,hypoxic,0.67,MALE,WHITE,Stage IV,NonSmoker
+TCGA-FD-A3SN,hypoxic,0.68,MALE,WHITE,Stage IV,Other
+TCGA-FD-A3SO,hypoxic,0.52,MALE,WHITE,Stage IV,NonSmoker
+TCGA-FD-A3SP,normoxic,0.18,MALE,WHITE,Stage III,Smoker
+TCGA-FD-A3SR,normoxic,0.71,MALE,WHITE,Stage IV,Smoker
+TCGA-FD-A3SS,hypoxic,0.82,MALE,WHITE,Stage IV,Smoker
+TCGA-FD-A43S,normoxic,0.99,FEMALE,WHITE,Stage III,Smoker
+TCGA-FD-A43U,normoxic,0.16,MALE,WHITE,Stage IV,Smoker
+TCGA-FD-A43Y,hypoxic,0.23,MALE,WHITE,Stage III,Smoker
+TCGA-FD-A5BR,normoxic,0.62,MALE,WHITE,Stage II,NonSmoker
+TCGA-FD-A5BS,hypoxic,0.08,MALE,WHITE,Stage III,NonSmoker
+TCGA-FD-A5BT,hypoxic,0.14,MALE,WHITE,Stage III,NonSmoker
+TCGA-FD-A5BU,hypoxic,0.33,FEMALE,BLACK OR AFRICAN AMERICAN,Stage II,Smoker
+TCGA-FD-A5BX,hypoxic,0.63,MALE,WHITE,Stage IV,NonSmoker
+TCGA-FD-A5BZ,normoxic,0.2,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-FD-A5C0,normoxic,0.7,MALE,WHITE,Stage IV,Smoker
+TCGA-FD-A62N,hypoxic,0.19,MALE,ASIAN,Stage III,Smoker
+TCGA-FD-A62O,normoxic,0.85,MALE,WHITE,Stage III,Smoker
+TCGA-FD-A62P,hypoxic,0.17,MALE,WHITE,Stage II,Smoker
+TCGA-FD-A62S,normoxic,0.22,FEMALE,BLACK OR AFRICAN AMERICAN,Stage III,NonSmoker
+TCGA-FD-A6TC,hypoxic,0.7,FEMALE,Other,Stage III,NonSmoker
+TCGA-FD-A6TD,hypoxic,0.52,MALE,WHITE,Stage III,NonSmoker
+TCGA-FD-A6TE,hypoxic,0.91,MALE,WHITE,Stage IV,Smoker
+TCGA-FD-A6TG,normoxic,0.2,MALE,WHITE,Stage IV,NonSmoker
+TCGA-FD-A6TH,hypoxic,0.82,MALE,WHITE,Stage IV,NonSmoker
+TCGA-FD-A6TI,normoxic,0.58,MALE,WHITE,Stage IV,Other
+TCGA-FJ-A3Z9,hypoxic,0.86,MALE,WHITE,Stage I,Smoker
+TCGA-FJ-A3ZF,normoxic,0.71,MALE,WHITE,Stage III,Smoker
+TCGA-FT-A3EE,normoxic,0.73,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-FT-A61P,hypoxic,0.42,MALE,WHITE,Stage IV,NonSmoker
+TCGA-G2-A2EF,hypoxic,0.74,MALE,WHITE,Stage II,Smoker
+TCGA-G2-A2EJ,hypoxic,0.63,FEMALE,WHITE,Stage II,Smoker
+TCGA-G2-A2EK,normoxic,0.47,MALE,WHITE,Stage II,NonSmoker
+TCGA-G2-A2EL,hypoxic,0.92,MALE,WHITE,Stage II,NonSmoker
+TCGA-G2-A2EO,hypoxic,0.49,MALE,WHITE,Stage III,NonSmoker
+TCGA-G2-A2ES,hypoxic,0.53,MALE,WHITE,Stage II,Smoker
+TCGA-G2-A3IB,hypoxic,0.9,MALE,BLACK OR AFRICAN AMERICAN,Stage II,NonSmoker
+TCGA-G2-A3IE,normoxic,0.67,MALE,WHITE,Stage II,Smoker
+TCGA-G2-A3VY,normoxic,0.94,MALE,ASIAN,Stage II,NonSmoker
+TCGA-GC-A3BM,normoxic,0.9,MALE,WHITE,Stage II,Smoker
+TCGA-GC-A3I6,normoxic,0.74,MALE,WHITE,Stage III,Smoker
+TCGA-GC-A3RB,hypoxic,0.91,MALE,WHITE,Stage III,Smoker
+TCGA-GC-A3RD,normoxic,0.71,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-GC-A3WC,normoxic,0.34,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-GC-A3YS,hypoxic,0.58,MALE,WHITE,Stage IV,Smoker
+TCGA-GC-A6I1,hypoxic,0.37,FEMALE,WHITE,Stage II,NonSmoker
+TCGA-GD-A2C5,normoxic,0.81,FEMALE,WHITE,Stage IV,Smoker
+TCGA-GD-A3OP,normoxic,0.17,FEMALE,WHITE,Stage IV,Other
+TCGA-GD-A3OQ,hypoxic,0.8,MALE,WHITE,Stage IV,Smoker
+TCGA-GD-A3OS,hypoxic,0.74,FEMALE,WHITE,Stage II,Smoker
+TCGA-GD-A6C6,normoxic,0.92,MALE,WHITE,Stage III,Smoker
+TCGA-GV-A3JV,normoxic,0.82,MALE,WHITE,Stage IV,Smoker
+TCGA-GV-A3JW,normoxic,0.8,MALE,WHITE,Stage II,NonSmoker
+TCGA-GV-A3JX,normoxic,0.92,MALE,WHITE,Stage III,Smoker
+TCGA-GV-A3QG,normoxic,0.24,MALE,WHITE,Stage IV,Smoker
+TCGA-GV-A3QI,normoxic,0.97,MALE,WHITE,Stage III,Smoker
+TCGA-GV-A40E,hypoxic,0.62,MALE,WHITE,Stage II,NonSmoker
+TCGA-GV-A40G,normoxic,0.84,MALE,WHITE,Stage II,Smoker
+TCGA-GV-A6ZA,normoxic,0.76,MALE,WHITE,Other,Smoker
+TCGA-H4-A2HO,normoxic,0.8,MALE,WHITE,Stage III,Smoker
+TCGA-HQ-A2OE,normoxic,0.91,MALE,Other,Other,Smoker
+TCGA-K4-A3WS,normoxic,0.33,MALE,Other,Stage III,NonSmoker
+TCGA-K4-A3WV,hypoxic,0.82,FEMALE,Other,Stage II,NonSmoker
+TCGA-K4-A4AB,normoxic,0.71,MALE,WHITE,Stage III,Smoker
+TCGA-K4-A4AC,hypoxic,0.42,MALE,WHITE,Stage II,Smoker
+TCGA-K4-A54R,hypoxic,0.61,MALE,WHITE,Stage II,Other
+TCGA-K4-A5RJ,normoxic,0.22,MALE,WHITE,Stage II,NonSmoker
+TCGA-K4-A6MB,normoxic,0.85,MALE,WHITE,Stage IV,Other
+TCGA-K4-A83P,normoxic,0.17,MALE,WHITE,Stage IV,NonSmoker
+TCGA-LC-A66R,hypoxic,0.51,MALE,WHITE,Stage IV,NonSmoker
+TCGA-MV-A51V,normoxic,0.89,MALE,WHITE,Stage III,NonSmoker
+TCGA-PQ-A6FI,hypoxic,0.8,MALE,WHITE,Stage II,Smoker
+TCGA-PQ-A6FN,hypoxic,0.3,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-S5-A6DX,normoxic,0.51,Other,Other,Other,Other
+TCGA-UY-A78N,hypoxic,0.89,Other,Other,Other,Other
+TCGA-XF-A8HF,normoxic,0.81,MALE,WHITE,Stage III,NonSmoker
+TCGA-XF-A8HG,normoxic,0.9,MALE,WHITE,Stage III,NonSmoker
+TCGA-XF-A9SJ,hypoxic,0.23,Other,Other,Other,Other
+TCGA-XF-A9SP,normoxic,0.48,Other,Other,Other,Other
+TCGA-XF-A9SW,normoxic,0.18,Other,Other,Other,Other
+TCGA-XF-A9T0,hypoxic,0.88,Other,Other,Other,Other
+TCGA-XF-A9T6,hypoxic,0.85,Other,Other,Other,Other
+TCGA-XF-A9T8,hypoxic,0.41,Other,Other,Other,Other
+TCGA-XF-AAMH,hypoxic,0.82,Other,Other,Other,Other
+TCGA-XF-AAMJ,normoxic,0.87,Other,Other,Other,Other
+TCGA-XF-AAML,normoxic,0.83,Other,Other,Other,Other
+TCGA-XF-AAMR,normoxic,0.24,Other,Other,Other,Other
+TCGA-XF-AAN3,hypoxic,0.26,Other,Other,Other,Other
+TCGA-XF-AAN7,normoxic,0.83,Other,Other,Other,Other
+TCGA-XF-AAN8,normoxic,0.51,Other,Other,Other,Other
+TCGA-YC-A8S6,normoxic,0.1,MALE,WHITE,Stage II,Other
+TCGA-ZF-A9R4,normoxic,0.96,Other,Other,Other,Other
+TCGA-ZF-A9RC,normoxic,0.21,Other,Other,Other,Other
+TCGA-ZF-AA58,hypoxic,0.21,Other,Other,Other,Other

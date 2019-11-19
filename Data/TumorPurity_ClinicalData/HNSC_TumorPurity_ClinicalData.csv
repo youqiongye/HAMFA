@@ -1,0 +1,255 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,gender,race,pathologic_stage,tobacco_smoking_history
+TCGA-BA-4074,hypoxic,69,0.51,MALE,WHITE,Stage IV,Smoker
+TCGA-BA-4075,hypoxic,49,0.7,MALE,BLACK OR AFRICAN AMERICAN,Stage III,Smoker
+TCGA-BA-4076,hypoxic,39,0.84,MALE,WHITE,Other,Smoker
+TCGA-BA-4077,hypoxic,45,0.68,FEMALE,WHITE,Stage IV,Smoker
+TCGA-BA-4078,normoxic,83,0.85,MALE,WHITE,Other,Smoker
+TCGA-BA-5149,hypoxic,47,0.58,MALE,WHITE,Stage IV,Smoker
+TCGA-BA-5153,normoxic,51,0.78,MALE,WHITE,Other,NonSmoker
+TCGA-BA-5555,normoxic,54,0.57,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Smoker
+TCGA-BA-5557,hypoxic,41,0.23,FEMALE,Other,Stage III,NonSmoker
+TCGA-BA-5559,normoxic,71,0.58,MALE,WHITE,Other,NonSmoker
+TCGA-BA-6868,hypoxic,53,0.79,MALE,BLACK OR AFRICAN AMERICAN,Other,Smoker
+TCGA-BA-6870,hypoxic,60,0.43,FEMALE,BLACK OR AFRICAN AMERICAN,Other,Smoker
+TCGA-BA-6871,normoxic,75,0.78,MALE,WHITE,Other,Smoker
+TCGA-BA-6873,hypoxic,28,0.55,MALE,Other,Stage IV,Smoker
+TCGA-BA-7269,hypoxic,61,0.65,MALE,WHITE,Stage III,Smoker
+TCGA-BA-A4IF,normoxic,59,0.44,MALE,WHITE,Other,Smoker
+TCGA-BA-A6D8,hypoxic,59,0.67,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Smoker
+TCGA-BA-A6DA,hypoxic,41,0.45,FEMALE,WHITE,Stage IV,Smoker
+TCGA-BA-A6DD,hypoxic,44,0.11,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Smoker
+TCGA-BB-4217,normoxic,68,0.13,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Smoker
+TCGA-BB-4223,normoxic,48,0.67,MALE,WHITE,Stage IV,NonSmoker
+TCGA-BB-4227,hypoxic,66,0.88,MALE,WHITE,Stage IV,NonSmoker
+TCGA-BB-4228,normoxic,50,0.95,MALE,WHITE,Stage III,Smoker
+TCGA-BB-7861,normoxic,56,0.21,MALE,WHITE,Stage III,Smoker
+TCGA-BB-7862,hypoxic,67,0.76,MALE,WHITE,Stage IV,Smoker
+TCGA-BB-7864,hypoxic,61,0.65,MALE,WHITE,Stage IV,Smoker
+TCGA-BB-8601,hypoxic,84,0.87,MALE,BLACK OR AFRICAN AMERICAN,Stage III,Smoker
+TCGA-CN-4723,hypoxic,67,0.52,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-4725,hypoxic,60,0.79,MALE,WHITE,Stage II,NonSmoker
+TCGA-CN-4726,hypoxic,68,0.25,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-4728,normoxic,56,0.51,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-4729,hypoxic,73,0.39,MALE,WHITE,Stage III,Smoker
+TCGA-CN-4730,hypoxic,62,0.59,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-4731,hypoxic,63,0.86,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CN-4735,normoxic,52,0.69,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-4738,hypoxic,53,0.22,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-4739,normoxic,71,0.42,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-4740,normoxic,79,0.18,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CN-5356,normoxic,56,0.51,MALE,WHITE,Stage III,Smoker
+TCGA-CN-5359,normoxic,59,0.21,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-5360,normoxic,68,0.36,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-5363,hypoxic,48,0.42,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Smoker
+TCGA-CN-5365,hypoxic,38,0.56,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-5366,hypoxic,51,0.18,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-5370,hypoxic,78,0.38,MALE,WHITE,Stage III,Smoker
+TCGA-CN-5374,normoxic,56,0.54,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CN-6010,normoxic,53,0.7,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-6011,hypoxic,57,0.77,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-6012,normoxic,66,0.58,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-6017,normoxic,55,0.99,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CN-6018,hypoxic,85,0.26,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-CN-6021,normoxic,63,0.55,FEMALE,WHITE,Other,Smoker
+TCGA-CN-6022,hypoxic,49,0.52,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-6023,normoxic,73,0.38,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CN-6024,hypoxic,66,0.71,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-6989,normoxic,64,0.9,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-6992,normoxic,61,0.73,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-6994,hypoxic,67,0.68,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CN-6995,hypoxic,78,0.55,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-6997,hypoxic,66,0.83,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-6998,hypoxic,53,0.66,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-A498,hypoxic,61,0.53,FEMALE,WHITE,Stage III,Smoker
+TCGA-CN-A49B,hypoxic,71,0.66,MALE,WHITE,Stage III,Smoker
+TCGA-CN-A63T,hypoxic,60,0.45,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-A63U,normoxic,50,0.71,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-A63V,hypoxic,59,0.31,MALE,WHITE,Stage IV,Smoker
+TCGA-CN-A63W,hypoxic,48,0.75,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CN-A642,hypoxic,57,0.69,MALE,WHITE,Stage IV,Smoker
+TCGA-CQ-5324,hypoxic,59,0.7,MALE,WHITE,Stage III,Smoker
+TCGA-CQ-5326,hypoxic,67,0.25,MALE,WHITE,Stage IV,Smoker
+TCGA-CQ-5332,hypoxic,87,0.76,MALE,WHITE,Stage III,Smoker
+TCGA-CQ-6220,hypoxic,69,0.45,MALE,WHITE,Stage III,NonSmoker
+TCGA-CQ-6221,normoxic,79,0.64,MALE,WHITE,Other,NonSmoker
+TCGA-CQ-6224,hypoxic,52,0.36,MALE,WHITE,Stage IV,Smoker
+TCGA-CQ-6225,hypoxic,65,0.82,MALE,WHITE,Stage III,Smoker
+TCGA-CQ-6228,hypoxic,71,0.84,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CQ-7071,hypoxic,76,0.55,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-CQ-A4C6,hypoxic,63,0.32,MALE,Other,Stage II,Smoker
+TCGA-CQ-A4C7,hypoxic,88,0.39,MALE,WHITE,Stage III,NonSmoker
+TCGA-CQ-A4CB,hypoxic,59,0.23,MALE,Other,Stage III,Smoker
+TCGA-CQ-A4CG,hypoxic,78,0.77,FEMALE,WHITE,Stage III,Smoker
+TCGA-CQ-A4CI,normoxic,73,0.78,MALE,WHITE,Stage III,Smoker
+TCGA-CR-5243,normoxic,51,0.86,MALE,WHITE,Other,NonSmoker
+TCGA-CR-5247,hypoxic,48,0.7,MALE,BLACK OR AFRICAN AMERICAN,Other,Smoker
+TCGA-CR-5248,normoxic,53,0.22,MALE,WHITE,Other,Smoker
+TCGA-CR-5249,hypoxic,35,0.68,FEMALE,WHITE,Stage II,NonSmoker
+TCGA-CR-5250,normoxic,71,0.87,MALE,WHITE,Other,Smoker
+TCGA-CR-6470,normoxic,38,0.5,MALE,WHITE,Stage II,NonSmoker
+TCGA-CR-6472,normoxic,59,0.86,MALE,WHITE,Other,NonSmoker
+TCGA-CR-6473,normoxic,68,0.92,MALE,WHITE,Other,Smoker
+TCGA-CR-6477,hypoxic,56,0.39,FEMALE,WHITE,Other,NonSmoker
+TCGA-CR-6478,hypoxic,66,0.21,FEMALE,WHITE,Other,Smoker
+TCGA-CR-6480,normoxic,53,0.75,MALE,WHITE,Other,NonSmoker
+TCGA-CR-6481,normoxic,47,0.2,MALE,WHITE,Other,NonSmoker
+TCGA-CR-6482,normoxic,62,0.35,MALE,BLACK OR AFRICAN AMERICAN,Other,Smoker
+TCGA-CR-6487,normoxic,50,0.3,MALE,WHITE,Stage I,Smoker
+TCGA-CR-6491,hypoxic,60,0.73,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Smoker
+TCGA-CR-6493,hypoxic,69,0.84,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,NonSmoker
+TCGA-CR-7368,hypoxic,54,0.7,MALE,WHITE,Stage IV,Smoker
+TCGA-CR-7370,normoxic,72,0.8,FEMALE,WHITE,Other,Smoker
+TCGA-CR-7373,hypoxic,66,0.57,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CR-7374,normoxic,67,0.62,FEMALE,WHITE,Other,Smoker
+TCGA-CR-7376,normoxic,83,0.14,MALE,WHITE,Stage III,NonSmoker
+TCGA-CR-7379,hypoxic,78,0.63,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-CR-7382,normoxic,49,0.99,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CR-7385,normoxic,42,0.22,MALE,WHITE,Other,NonSmoker
+TCGA-CR-7386,hypoxic,69,0.23,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CR-7390,hypoxic,67,0.6,MALE,WHITE,Stage IV,Smoker
+TCGA-CR-7391,normoxic,36,0.99,FEMALE,WHITE,Stage I,NonSmoker
+TCGA-CR-7393,normoxic,26,0.62,MALE,WHITE,Stage III,NonSmoker
+TCGA-CR-7397,normoxic,44,0.18,MALE,WHITE,Stage IV,Smoker
+TCGA-CR-7399,normoxic,60,0.59,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CR-7401,hypoxic,64,0.19,MALE,WHITE,Stage I,Smoker
+TCGA-CR-7402,normoxic,68,0.66,MALE,WHITE,Other,Smoker
+TCGA-CV-5430,normoxic,61,0.69,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CV-5431,normoxic,73,0.95,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-5432,hypoxic,68,0.66,MALE,WHITE,Stage III,Smoker
+TCGA-CV-5434,normoxic,60,0.7,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,NonSmoker
+TCGA-CV-5435,normoxic,57,0.77,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-5436,hypoxic,65,0.76,MALE,Other,Stage IV,Smoker
+TCGA-CV-5439,hypoxic,62,0.58,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-5440,hypoxic,52,0.81,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-5443,normoxic,63,0.57,MALE,BLACK OR AFRICAN AMERICAN,Stage III,Smoker
+TCGA-CV-5966,hypoxic,63,0.42,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CV-5971,normoxic,60,0.8,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-5977,hypoxic,66,0.76,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-5978,normoxic,53,0.65,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,Smoker
+TCGA-CV-5979,hypoxic,26,0.92,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CV-6003,hypoxic,50,0.66,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-CV-6433,normoxic,57,0.7,MALE,WHITE,Stage II,Smoker
+TCGA-CV-6436,hypoxic,62,0.39,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CV-6933,hypoxic,53,0.62,MALE,WHITE,Stage III,Smoker
+TCGA-CV-6934,hypoxic,66,0.52,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CV-6935,hypoxic,67,0.76,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-6937,hypoxic,71,0.37,MALE,WHITE,Stage II,Smoker
+TCGA-CV-6939,normoxic,60,0.44,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CV-6940,normoxic,80,0.74,FEMALE,WHITE,Stage III,Smoker
+TCGA-CV-6941,normoxic,51,0.68,MALE,WHITE,Stage III,Smoker
+TCGA-CV-6945,hypoxic,41,0.57,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-6948,normoxic,79,0.82,FEMALE,WHITE,Stage IV,Other
+TCGA-CV-6950,hypoxic,64,0.63,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-6951,hypoxic,57,0.75,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-6953,hypoxic,80,0.4,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-CV-6954,normoxic,59,0.58,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,NonSmoker
+TCGA-CV-6956,hypoxic,67,0.72,MALE,Other,Stage III,Smoker
+TCGA-CV-6959,hypoxic,48,0.48,MALE,WHITE,Stage III,NonSmoker
+TCGA-CV-6961,hypoxic,61,0.52,MALE,WHITE,Stage II,Smoker
+TCGA-CV-6962,hypoxic,65,0.79,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-7090,hypoxic,39,0.34,MALE,WHITE,Stage II,Other
+TCGA-CV-7091,hypoxic,54,0.53,MALE,WHITE,Stage I,Smoker
+TCGA-CV-7095,hypoxic,87,0.55,FEMALE,Other,Stage II,NonSmoker
+TCGA-CV-7097,hypoxic,53,0.56,MALE,WHITE,Stage II,Smoker
+TCGA-CV-7100,hypoxic,66,0.56,MALE,WHITE,Stage III,NonSmoker
+TCGA-CV-7101,hypoxic,80,0.45,MALE,WHITE,Stage II,Smoker
+TCGA-CV-7102,hypoxic,76,0.61,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CV-7103,normoxic,49,0.65,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-7177,normoxic,82,0.62,FEMALE,WHITE,Stage II,Other
+TCGA-CV-7178,normoxic,64,0.53,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-CV-7183,hypoxic,53,0.9,MALE,WHITE,Stage II,NonSmoker
+TCGA-CV-7235,hypoxic,67,0.61,MALE,WHITE,Stage II,NonSmoker
+TCGA-CV-7242,hypoxic,60,0.45,FEMALE,WHITE,Stage II,NonSmoker
+TCGA-CV-7245,hypoxic,62,0.76,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-7252,hypoxic,62,0.24,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,Other
+TCGA-CV-7253,hypoxic,58,0.78,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Other
+TCGA-CV-7254,normoxic,55,0.44,MALE,WHITE,Stage II,Smoker
+TCGA-CV-7255,hypoxic,32,0.66,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-CV-7261,normoxic,57,0.64,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-7263,normoxic,64,0.55,MALE,BLACK OR AFRICAN AMERICAN,Stage II,NonSmoker
+TCGA-CV-7406,normoxic,49,0.58,MALE,WHITE,Stage II,Smoker
+TCGA-CV-7407,hypoxic,67,0.6,FEMALE,WHITE,Stage II,NonSmoker
+TCGA-CV-7410,hypoxic,61,0.13,MALE,WHITE,Stage III,NonSmoker
+TCGA-CV-7411,hypoxic,64,0.41,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CV-7413,hypoxic,74,0.39,FEMALE,WHITE,Stage II,Other
+TCGA-CV-7414,hypoxic,78,0.85,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CV-7415,hypoxic,60,0.65,MALE,WHITE,Stage IV,Other
+TCGA-CV-7416,hypoxic,29,0.73,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-CV-7418,normoxic,62,0.7,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,Smoker
+TCGA-CV-7421,hypoxic,76,0.56,MALE,WHITE,Stage IV,NonSmoker
+TCGA-CV-7422,normoxic,60,0.3,FEMALE,WHITE,Stage IV,Smoker
+TCGA-CV-7424,normoxic,67,0.58,MALE,Other,Stage IV,Smoker
+TCGA-CV-7428,hypoxic,47,0.59,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-7429,normoxic,55,0.16,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-7432,hypoxic,79,0.67,MALE,WHITE,Stage II,Smoker
+TCGA-CV-7433,hypoxic,49,0.21,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-7434,hypoxic,64,0.68,MALE,WHITE,Stage IV,Smoker
+TCGA-CV-7437,hypoxic,77,0.73,MALE,Other,Stage II,NonSmoker
+TCGA-CV-7438,hypoxic,87,0.43,FEMALE,WHITE,Stage I,NonSmoker
+TCGA-CV-7440,hypoxic,38,0.74,MALE,WHITE,Stage II,Smoker
+TCGA-CV-A45Q,hypoxic,69,0.52,FEMALE,WHITE,Other,NonSmoker
+TCGA-CV-A6JE,hypoxic,78,0.6,MALE,WHITE,Other,Smoker
+TCGA-CV-A6JM,hypoxic,85,0.57,MALE,WHITE,Other,NonSmoker
+TCGA-CV-A6JN,hypoxic,53,0.54,MALE,WHITE,Other,Smoker
+TCGA-CX-7082,normoxic,82,0.74,MALE,WHITE,Stage IV,Smoker
+TCGA-D6-6517,hypoxic,59,0.23,MALE,WHITE,Stage III,Smoker
+TCGA-D6-6824,normoxic,61,0.99,MALE,WHITE,Stage IV,Smoker
+TCGA-D6-6826,hypoxic,64,0.28,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-D6-6827,normoxic,55,0.78,FEMALE,WHITE,Stage I,Smoker
+TCGA-D6-8568,normoxic,62,0.34,MALE,WHITE,Stage II,Smoker
+TCGA-D6-A4ZB,hypoxic,61,0.24,MALE,WHITE,Stage III,Smoker
+TCGA-DQ-5629,normoxic,64,0.8,MALE,WHITE,Other,Smoker
+TCGA-DQ-7588,hypoxic,66,0.72,MALE,WHITE,Other,Smoker
+TCGA-DQ-7591,normoxic,62,0.73,MALE,WHITE,Other,NonSmoker
+TCGA-DQ-7592,hypoxic,57,0.48,MALE,Other,Other,Smoker
+TCGA-F7-7848,normoxic,47,0.56,MALE,WHITE,Stage IV,Smoker
+TCGA-F7-8298,hypoxic,58,0.48,MALE,WHITE,Stage I,NonSmoker
+TCGA-F7-A61S,hypoxic,62,0.64,MALE,WHITE,Stage III,Smoker
+TCGA-F7-A61V,normoxic,54,0.48,MALE,WHITE,Stage II,Smoker
+TCGA-F7-A622,hypoxic,75,0.73,MALE,WHITE,Stage III,NonSmoker
+TCGA-F7-A624,normoxic,73,0.5,MALE,WHITE,Stage II,NonSmoker
+TCGA-H7-8501,hypoxic,54,0.43,MALE,WHITE,Stage IV,Smoker
+TCGA-H7-8502,hypoxic,50,0.77,MALE,WHITE,Stage IV,Smoker
+TCGA-HD-7229,hypoxic,60,0.6,MALE,WHITE,Stage IV,NonSmoker
+TCGA-HD-7753,hypoxic,62,0.6,MALE,BLACK OR AFRICAN AMERICAN,Stage I,Smoker
+TCGA-HD-7754,normoxic,69,0.77,MALE,WHITE,Stage IV,Smoker
+TCGA-HD-7831,normoxic,74,0.92,MALE,WHITE,Stage IV,NonSmoker
+TCGA-HD-7832,hypoxic,52,0.72,MALE,WHITE,Stage IV,Smoker
+TCGA-HD-8314,normoxic,58,0.62,MALE,WHITE,Stage III,NonSmoker
+TCGA-HD-A633,hypoxic,74,0.63,MALE,WHITE,Stage IV,NonSmoker
+TCGA-HD-A634,normoxic,56,0.54,MALE,WHITE,Stage IV,Smoker
+TCGA-HD-A6HZ,hypoxic,79,0.41,FEMALE,WHITE,Stage III,NonSmoker
+TCGA-HD-A6I0,hypoxic,56,0.61,MALE,WHITE,Stage IV,NonSmoker
+TCGA-HL-7533,hypoxic,65,0.67,MALE,WHITE,Other,NonSmoker
+TCGA-IQ-7630,hypoxic,49,0.64,MALE,WHITE,Stage II,NonSmoker
+TCGA-IQ-7631,normoxic,60,0.8,FEMALE,WHITE,Stage II,NonSmoker
+TCGA-IQ-A61E,hypoxic,55,0.48,FEMALE,WHITE,Stage III,Smoker
+TCGA-IQ-A61G,hypoxic,57,0.78,MALE,WHITE,Stage IV,Smoker
+TCGA-IQ-A61H,normoxic,76,0.22,MALE,WHITE,Stage II,Smoker
+TCGA-IQ-A61I,normoxic,63,0.72,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,NonSmoker
+TCGA-IQ-A61O,hypoxic,43,0.49,MALE,WHITE,Stage IV,NonSmoker
+TCGA-KU-A66S,normoxic,69,0.38,FEMALE,WHITE,Stage III,Smoker
+TCGA-KU-A66T,hypoxic,53,0.88,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-MT-A51W,hypoxic,52,0.19,FEMALE,WHITE,Stage I,Smoker
+TCGA-MT-A67F,hypoxic,60,0.99,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-MZ-A6I9,normoxic,68,0.26,MALE,WHITE,Other,NonSmoker
+TCGA-P3-A5Q5,normoxic,54,0.54,MALE,WHITE,Stage IV,Smoker
+TCGA-P3-A5Q6,hypoxic,49,0.51,MALE,WHITE,Stage IV,Smoker
+TCGA-P3-A5QA,hypoxic,41,0.51,MALE,Other,Stage I,NonSmoker
+TCGA-P3-A5QE,normoxic,49,0.69,MALE,WHITE,Stage III,NonSmoker
+TCGA-P3-A5QF,normoxic,49,0.82,MALE,WHITE,Stage IV,NonSmoker
+TCGA-P3-A6SW,normoxic,50,0.21,MALE,WHITE,Stage IV,Smoker
+TCGA-P3-A6SX,hypoxic,67,0.66,MALE,WHITE,Stage III,Smoker
+TCGA-P3-A6T0,hypoxic,47,0.72,FEMALE,WHITE,Stage IV,Smoker
+TCGA-P3-A6T2,hypoxic,45,0.82,MALE,WHITE,Stage IV,NonSmoker
+TCGA-P3-A6T3,hypoxic,49,0.66,MALE,WHITE,Stage IV,NonSmoker
+TCGA-P3-A6T5,hypoxic,79,0.61,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-P3-A6T6,normoxic,53,0.72,MALE,WHITE,Stage IV,NonSmoker
+TCGA-P3-A6T7,hypoxic,55,0.45,MALE,WHITE,Stage IV,Smoker
+TCGA-P3-A6T8,normoxic,54,0.43,MALE,WHITE,Stage IV,Smoker
+TCGA-QK-A6IF,normoxic,61,0.58,MALE,WHITE,Other,NonSmoker
+TCGA-QK-A6IG,hypoxic,69,0.59,MALE,WHITE,Stage III,Smoker
+TCGA-QK-A6IH,hypoxic,65,0.75,FEMALE,WHITE,Stage IV,NonSmoker
+TCGA-QK-A6II,hypoxic,52,0.59,MALE,WHITE,Stage IV,Smoker
+TCGA-QK-A6IJ,hypoxic,71,0.37,MALE,WHITE,Stage III,Smoker
+TCGA-UF-A7JV,hypoxic,62,0.39,FEMALE,WHITE,Stage IV,NonSmoker

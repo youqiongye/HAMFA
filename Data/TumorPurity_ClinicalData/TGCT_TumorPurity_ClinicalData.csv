@@ -1,0 +1,108 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,race,pathologic_stage
+TCGA-2G-AAEW,normoxic,31,0.6,WHITE,IS
+TCGA-2G-AAEX,normoxic,38,0.54,WHITE,IS
+TCGA-2G-AAF1,normoxic,28,0.45,Other,IS
+TCGA-2G-AAF4,normoxic,30,0.54,WHITE,Stage I
+TCGA-2G-AAF6,normoxic,28,0.61,WHITE,IS
+TCGA-2G-AAF8,normoxic,33,0.55,WHITE,Stage I
+TCGA-2G-AAFE,normoxic,37,0.6,WHITE,Stage II
+TCGA-2G-AAFG,normoxic,30,0.5,WHITE,IS
+TCGA-2G-AAFH,normoxic,38,0.55,WHITE,Stage II
+TCGA-2G-AAFI,hypoxic,41,0.37,WHITE,Stage I
+TCGA-2G-AAFL,hypoxic,35,0.28,WHITE,Stage I
+TCGA-2G-AAFM,hypoxic,31,0.25,WHITE,Stage II
+TCGA-2G-AAFN,hypoxic,26,0.34,WHITE,Stage III
+TCGA-2G-AAFO,hypoxic,33,0.3,WHITE,Stage II
+TCGA-2G-AAFY,hypoxic,24,0.22,WHITE,Stage II
+TCGA-2G-AAG0,hypoxic,23,0.3,WHITE,IS
+TCGA-2G-AAG7,hypoxic,33,0.28,WHITE,IS
+TCGA-2G-AAG8,hypoxic,21,0.43,WHITE,Stage I
+TCGA-2G-AAG9,hypoxic,25,0.61,WHITE,Stage III
+TCGA-2G-AAGA,hypoxic,38,0.39,WHITE,Stage II
+TCGA-2G-AAGC,hypoxic,28,0.31,WHITE,IS
+TCGA-2G-AAGE,hypoxic,21,0.38,WHITE,IS
+TCGA-2G-AAGF,hypoxic,28,0.3,WHITE,IS
+TCGA-2G-AAGJ,hypoxic,28,0.31,Other,Stage I
+TCGA-2G-AAGK,hypoxic,20,0.31,WHITE,IS
+TCGA-2G-AAGN,hypoxic,41,0.46,WHITE,Stage III
+TCGA-2G-AAGO,hypoxic,41,0.44,WHITE,IS
+TCGA-2G-AAGS,hypoxic,39,0.28,WHITE,Stage III
+TCGA-2G-AAGW,hypoxic,38,0.28,WHITE,IS
+TCGA-2G-AAGZ,hypoxic,27,0.17,WHITE,Stage III
+TCGA-2G-AAH0,normoxic,30,0.58,WHITE,IS
+TCGA-2G-AAH3,normoxic,20,0.63,WHITE,Stage I
+TCGA-2G-AAH8,normoxic,45,0.76,WHITE,Stage III
+TCGA-2G-AAHA,normoxic,48,0.57,WHITE,Stage I
+TCGA-2G-AAHC,normoxic,33,0.43,WHITE,IS
+TCGA-2G-AAHG,normoxic,25,0.72,WHITE,Stage I
+TCGA-2G-AAHL,hypoxic,26,0.64,WHITE,Stage I
+TCGA-2G-AAHN,normoxic,32,0.49,WHITE,Stage I
+TCGA-2G-AAHP,normoxic,31,0.79,WHITE,IS
+TCGA-2G-AAHT,normoxic,32,0.59,WHITE,IS
+TCGA-2G-AAKD,hypoxic,18,0.28,WHITE,Stage III
+TCGA-2G-AAKG,hypoxic,22,0.3,WHITE,Stage I
+TCGA-2G-AAKH,hypoxic,19,0.43,WHITE,Stage II
+TCGA-2G-AAKL,hypoxic,26,0.37,WHITE,Stage II
+TCGA-2G-AAKM,hypoxic,14,0.44,WHITE,Stage II
+TCGA-2G-AAL7,hypoxic,32,0.47,WHITE,IS
+TCGA-2G-AALP,hypoxic,43,0.27,WHITE,Stage III
+TCGA-2X-A9D5,normoxic,49,0.58,WHITE,Stage I
+TCGA-2X-A9D6,normoxic,42,0.5,WHITE,Stage I
+TCGA-4K-AA1G,normoxic,34,0.7,WHITE,IS
+TCGA-4K-AA1H,normoxic,26,0.32,WHITE,Stage I
+TCGA-4K-AA1I,normoxic,26,0.45,WHITE,Stage I
+TCGA-4K-AAAL,normoxic,31,0.62,WHITE,IS
+TCGA-S6-A8JW,normoxic,37,0.68,WHITE,IS
+TCGA-S6-A8JX,normoxic,27,0.86,WHITE,Stage I
+TCGA-S6-A8JY,normoxic,27,0.7,WHITE,IS
+TCGA-SB-A6J6,normoxic,22,0.53,WHITE,Stage I
+TCGA-SB-A76C,normoxic,38,0.67,WHITE,Other
+TCGA-SN-A6IS,normoxic,26,0.59,WHITE,IS
+TCGA-SN-A84Y,hypoxic,18,0.38,WHITE,IS
+TCGA-SO-A8JP,normoxic,29,0.79,WHITE,Stage I
+TCGA-VF-A8A8,hypoxic,18,0.31,WHITE,Stage I
+TCGA-VF-A8A9,normoxic,31,0.47,WHITE,Stage I
+TCGA-VF-A8AA,normoxic,51,0.51,WHITE,Stage I
+TCGA-VF-A8AB,normoxic,31,0.44,Other,Stage I
+TCGA-VF-A8AC,normoxic,29,0.51,WHITE,Stage I
+TCGA-VF-A8AD,hypoxic,36,0.39,WHITE,Stage I
+TCGA-VF-A8AE,normoxic,39,0.42,WHITE,Stage I
+TCGA-W4-A7U2,normoxic,26,0.66,WHITE,Other
+TCGA-W4-A7U4,hypoxic,23,0.42,WHITE,Other
+TCGA-WZ-A7V3,normoxic,20,0.64,WHITE,Stage I
+TCGA-WZ-A7V4,normoxic,28,0.48,WHITE,Stage I
+TCGA-WZ-A7V5,normoxic,27,0.52,WHITE,Stage I
+TCGA-WZ-A8D5,normoxic,38,0.53,WHITE,Other
+TCGA-X3-A8G4,hypoxic,33,0.31,WHITE,IS
+TCGA-XE-A8H1,hypoxic,24,0.35,WHITE,IS
+TCGA-XE-A8H4,normoxic,23,0.45,WHITE,Stage I
+TCGA-XE-A8H5,normoxic,29,0.72,Other,IS
+TCGA-XE-A9SE,normoxic,35,0.54,WHITE,Stage I
+TCGA-XE-AANJ,normoxic,39,0.62,WHITE,IS
+TCGA-XE-AANR,normoxic,24,0.44,WHITE,Stage I
+TCGA-XE-AANV,normoxic,52,0.6,Other,Stage I
+TCGA-XE-AAO3,normoxic,33,0.73,Other,Stage I
+TCGA-XE-AAO4,normoxic,40,0.57,WHITE,Stage I
+TCGA-XE-AAO6,normoxic,47,0.62,WHITE,Stage I
+TCGA-XE-AAOB,hypoxic,27,0.22,WHITE,IS
+TCGA-XE-AAOD,normoxic,39,0.36,WHITE,Stage I
+TCGA-XE-AAOF,normoxic,50,0.51,Other,Stage I
+TCGA-XE-AAOL,normoxic,38,0.82,Other,Stage I
+TCGA-XY-A89B,normoxic,35,0.54,WHITE,Stage I
+TCGA-XY-A8S2,hypoxic,67,0.41,WHITE,Stage I
+TCGA-XY-A8S3,hypoxic,24,0.35,WHITE,IS
+TCGA-XY-A9T9,normoxic,37,0.54,WHITE,IS
+TCGA-YU-A90P,hypoxic,25,0.3,WHITE,Stage I
+TCGA-YU-A90Q,normoxic,21,0.79,Other,Stage I
+TCGA-YU-A90S,normoxic,26,0.29,WHITE,Stage I
+TCGA-YU-A90W,normoxic,45,0.68,WHITE,Stage I
+TCGA-YU-A90Y,hypoxic,23,0.28,Other,Stage III
+TCGA-YU-A912,hypoxic,34,0.68,Other,Stage III
+TCGA-ZM-AA05,normoxic,36,0.49,WHITE,Other
+TCGA-ZM-AA06,normoxic,45,0.62,WHITE,Stage I
+TCGA-ZM-AA0B,normoxic,32,0.58,WHITE,Stage I
+TCGA-ZM-AA0D,normoxic,34,0.44,WHITE,Stage I
+TCGA-ZM-AA0E,normoxic,39,0.51,WHITE,Stage I
+TCGA-ZM-AA0F,normoxic,35,0.41,WHITE,Stage I
+TCGA-ZM-AA0H,normoxic,50,0.51,WHITE,IS
+TCGA-ZM-AA0N,normoxic,44,0.49,WHITE,Stage I

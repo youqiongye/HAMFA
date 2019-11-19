@@ -1,0 +1,253 @@
+DRUG.NAME	SYNONYMS	TARGET	TARGET.PATHWAY	Drug
+Erlotinib 		EGFR	EGFR	Erlotinib
+Rapamycin	"AY-22989,Sirolimus,WY-090217"	mTOR	TOR	Rapamycin
+Sunitinib	Sutent	"PDGFRA/B, KDR, KIT, FLT3"	RTK	Sunitinib
+PHA-665752		MET	RTK	PHA.665752
+MG-132	zLLL	Proteasome	other	MG.132
+Paclitaxel	BMS-181339-01	Beta subunit of Tubulin	cytoskeleton	Paclitaxel
+Cyclopamine	11-deoxojervine	SMO	other	Cyclopamine
+AZ628		BRAF	ERK MAPK	AZ628
+Sorafenib	"BAY-439006, Nexavar"	"PDGFRA, PDGFRB, KDR, KIT, FLT3"	RTK	Sorafenib
+VX-680	"MK-045,MK-0457,VX-68"	"AURKA, AURKB, AURKC, FLT3, ABL1, JAK2"	mitosis	VX.680
+Imatinib	"Gleevec,STI-571"	"ABL, KIT, PDGFR"	ABL	Imatinib
+TAE684	NVP-TAE684	ALK	RTK	NVP.TAE684
+PF-02341066	"Xalkori,PF2341066"	"MET, ALK"	RTK	PF.02341066
+AZD-0530	"AZD-0530,KIN001-045"	"SRC, ABL1"	ABL	AZD.0530
+S-Trityl-L-cysteine	NSC 83265	KIF11	mitosis	S.Trityl.L.cysteine
+Z-LLNle-CHO	Z-L-Norleucine-CHO	gamma-secretase	other	Z.LLNle.CHO
+Dasatinib	KIN001-005	"ABL, SRC, KIT, PDGFR"	ABL	Dasatinib
+GNF-2	KIN001-013 (GNF-2 / 3-(6-(4-(trifluoromethoxy)phenylamino)pyrimidin-4-yl)benzamide)	ABL	ABL	GNF.2
+CGP-60474	KIN001-019	"CDK1,CDK2,CDK5,CDK7,CDK9"	cell cycle	CGP.60474
+CGP-082996	"CINK4,KIN001-021"	CDK4	cell cycle	CGP.082996
+A-770041	KIN001-111	SRC	other	A.770041
+WH-4-023	KIN001-112	"SRC, ABL"	ABL	WH.4.023
+WZ-1-84	KIN001-123	BMX	other	WZ.1.84
+BI-2536	KIN001-124	"PLK1, PLK2, PLK3"	mitosis	BI.2536
+BMS-536924	KIN001-126	IGF1R	IGFR	BMS.536924
+BMS-509744	KIN001-127	ITK	other	BMS.509744
+CMK	KIN001-128	RSK	ERK MAPK	CMK
+Pyrimethamine		DHFR	DNA replication	Pyrimethamine
+JW-7-52-1		mTOR	TOR	JW.7.52.1
+A-443654	KIN001-139	"AKT1, AKT2, AKT3"	PI3K	A.443654
+GW843682X	KIN001-134	PLK1	mitosis	GW843682X
+MS-275	MS275	HDAC	chromain  histone acetylation	MS.275
+Parthenolide		NFKB1	other	Parthenolide
+KIN001-135	KIN001-135	IKKE	other	KIN001.135
+TGX221		PI3K beta	PI3K	TGX221
+Bortezomib	"LDP-341,PS-341"	Proteasome	other	Bortezomib
+XMD8-85	XMD8-85	ERK5	other	XMD8.85
+Roscovitine	Seliciclib	CDK family	cell cycle	Roscovitine
+Salubrinal	"3-Phenyl-N-[2,2,2-trichloro-1-[[(8-quinolinylamino)thioxomethyl]amino]ethyl]-2-propenamide"	GADD34-PP1C phosphatase	other	Salubrinal
+Lapatinib	"Tykerb, Tyverb"	"EGFR, ERBB2"	EGFR	Lapatinib
+GSK269962A	KIN001-155	"ROCK1,ROCK2"	cytoskeleton	GSK269962A
+Doxorubicin	"Doxil,Rubex"	DNA intercalating	DNA replication	Doxorubicin
+Etoposide		TOP2	DNA replication	Etoposide
+Gemcitabine	"Gemzar, LY-188011"	DNA replication	DNA replication	Gemcitabine
+Mitomycin-C	"Mytozytrex,NSC-26980"	DNA crosslinker	DNA replication	Mitomycin.C
+Vinorelbine		Microtubules	cytoskeleton	Vinorelbine
+NSC-87877		"SHP-1, SHP-2"	other	NSC.87877
+Bicalutamide	ICI-176334	Androgen receptor	other	Bicalutamide
+QS11	QS11	ARFGAP	other	QS11
+CP466722	"[2-(6,7-dimethoxyquinazolin-4-yl)-5-(pyridin-2-yl)-2H-1,2,4-triazol-3-amine]"	ATM	Genome integrity	CP466722
+Midostaurin	PKC 412	KIT	RTK	Midostaurin
+CHIR-99021	CT 99021	GSK3B	WNT	CHIR.99021
+AP-24534	KIN001-192	ABL	ABL	AP.24534
+AZD6482	"KIN001-193, WO2009093972K"	 PI3K beta	PI3K	 AZD6482
+JNK-9L 	"KIN001-204 "	"JNK, CDK9"	JNK and p38	JNK.9L
+PF-562271	KIN001-205	FAK	cytoskeleton	PF.562271
+HG-6-64-1	KIN001-206	"BRAFV600E, TAK, MAP4K5"	ERK MAPK	HG.6.64.1
+JQ1	JQ1	"BRD2, BRD3, BRD4"	chromatin  other	JQ1
+JQ12	JQ12	HDAC	chromain  histone acetylation	JQ12
+DMOG	Dimethyloxalylglcine	Prolyl-4-Hydroxylase	other	DMOG
+FTI-277		FNTA	other	FTI.277
+OSU-03012	AR-12	PDK1	PI3K	OSU.03012
+Shikonin	Shikonin	unknown	other	Shikonin
+AKT-inhibitor-VIII		"AKT1, AKT2, AKT3"	PI3K	AKT.inhibitor.VIII
+Embelin		XIAP	apoptosis	Embelin
+FH535	FH535	unknown	other	FH535
+PAC-1	PAC-1	CASP3 agonist	apoptosis	PAC.1
+IPA-3	IPA-3	PAK	cytoskeleton	IPA.3
+GSK-650394		SGK3	other	GSK.650394
+BAY-61-3606		SYK	other	BAY.61.3606
+5-Fluorouracil	5-FU	DNA antimetabolite	DNA replication	5.Fluorouracil
+Thapsigargin		ATPase	other	Thapsigargin
+Obatoclax-Mesylate		"BCL-2, BCL-XL, MCL-1"	apoptosis	Obatoclax.Mesylate
+BMS-754807		IGF1R	IGFR	BMS.754807
+Lisitinib	OSI-906	IGF1R	IGFR	Lisitinib
+Bexarotene	"LG-100069,LGD-1069"	Retinioic acid X family agonist	other	Bexarotene
+Bleomycin		DNA damage	DNA replication	Bleomycin
+LFM-A13	DDE-28	BTK	other	LFM.A13
+GW-2580	GW-2580	cFMS	RTK	GW.2580
+AUY922	"VER-52296,NVP-AUY922"	HSP90	other	AUY922
+Phenformin	Phenformin		metabolism	Phenformin
+Bryostatin-1	Bryostatin 1	PRKC	other	Bryostatin.1
+Pazopanib	GW786034	"VEGFR, PDGFRA, PDGFRB, KIT"	RTK	Pazopanib
+LAQ824	"Dacinostat, NVP-LAQ824"	HDAC	chromain  histone acetylation	LAQ824
+Epothilone-B	GNF-PF-193	Microtubules	cytoskeleton	Epothilone.B
+GSK1904529A	GSK1904529A	IGF1R	IGFR	GSK1904529A
+BMS345541	BMS345541	IKBKB	other	BMS345541
+Tipifarnib		FNTA	other	Tipifarnib
+BMS-708163	Avagacestat	gamma-secretase	other	BMS.708163
+Ruxolitinib	INCB-18424	"JAK1, JAK2, TYK2"	other	Ruxolitinib
+AS601245	AS601245	JNK	JNK and p38	AS601245
+Ispinesib-Mesylate	SB-715992	KIF11	mitosis	Ispinesib.Mesylate
+TL-2-105		CRAF	ERK MAPK	TL.2.105
+AT-7519		CDK9	cell cycle	AT.7519
+TAK-715	KIN001-201	p38a	JNK and p38	TAK.715
+BX-912	KIN001-175	PDK1	PI3K	BX.912
+ZSTK474	KIN001-167	PI3K	PI3K	ZSTK474
+AS605240	KIN001-173	PI3K gamma	PI3K	AS605240
+Genentech-Cpd-10		"AURKA, AURKB"	mitosis	Genentech.Cpd.10
+GSK1070916		AURKB	mitosis	GSK1070916
+KIN001-102		AKT1	PI3K	KIN001.102
+LY317615	Enzastaurin	PKCbeta	other	LY317615
+GSK429286A		ROCK2	cytoskeleton	GSK429286A
+FMK	KIN001-242	RSK	ERK MAPK	FMK
+QL-XII-47		"BTK, BMX"	other	QL.XII.47
+CAL-101		PI3K delta	PI3K	CAL.101
+UNC0638		"G9a, GLP"	chromatin  histone methylation	UNC0638
+XL-184	Cabozantinib	"VEGFR, MET, RET, KIT, FLT13/4, TIE2,AXL"	RTK	XL.184
+WZ3105		"CLK2, CNSK1E, FLT3, ULK1"	RTK	WZ3105
+XMD14-99		"EPHB3, CAMK1"	RTK	XMD14.99
+AC220	Quizartinib	FLT3	RTK	AC220
+CP724714		ERBB2	EGFR	CP724714
+JW-7-24-1		LCK	other	JW.7.24.1
+NPK76-II-72-1		PLK3	mitosis	NPK76.II.72.1
+STF-62247		Autophagy	other	STF.62247
+NG-25		TAK	other	NG.25
+TL-1-85		TAK	other	TL.1.85
+VX-11e		ERK	ERK MAPK	VX.11e
+FR-180204		ERK	ERK MAPK	FR.180204
+Tubastatin-A		HDAC6	chromain  histone acetylation	Tubastatin.A
+Zibotentan	Zibotentan	Endothelin A Receptor	other	Zibotentan
+YM155	Sepantronium bromide	BIRC5	apoptosis	YM155
+NSC-207895	XI-006	MDMX	p53	NSC.207895
+VNLG-124	"4-(Butanoyloxymethyl)phenyl-(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohex-1-enyl)nona-2,4,6,8-tetraenoate"	"HDAC,RAR"	chromain  histone acetylation	VNLG.124
+AR-42	HDAC-42	HDAC	chromain  histone acetylation	AR.42
+CUDC-101		"HDAC, EGFR"	chromain  histone acetylation	CUDC.101
+Belinostat	PXD101	HDAC	chromain  histone acetylation	Belinostat
+I-BET-762	GSK525762A	"BRD2, BRD3, BRD4"	chromatin  other	I.BET.762
+CAY10603		HDAC6	chromain  histone acetylation	CAY10603
+Linifanib	ABT-869	RTK	RTK	Linifanib
+BIX02189		MEK5	other	BIX02189
+CH5424802		ALK	RTK	CH5424802
+EKB-569	Pelitinib	EGFR	EGFR	EKB.569
+GSK2126458	EX-8678	"PI3K, mTOR"	PI3K	GSK2126458
+KIN001-236		TIE2	other	KIN001.236
+KIN001-244		PDK1	PI3K	KIN001.244
+KIN001-055	"WHI-P97, AC1L1GQE"	"JAK3, MNK1"	other	KIN001.055
+KIN001-260	Bayer IKKb inhibitor	IKK	other	KIN001.260
+KIN001-266		"TPL2,COT(M3K8)"	other	KIN001.266
+Masitinib	AB1010	KIT	RTK	Masitinib
+MP470		PDGFR	RTK	MP470
+MPS-1-IN-1		MPS1	mitosis	MPS.1.IN.1
+BHG712	NVP-BHG712	EPHB4	RTK	BHG712
+OSI-930		"KIT, VEGFR, PDGFR"	RTK	OSI.930
+OSI-027	A-1065	mTORC1/2	TOR	OSI.027
+CX-5461		RNA Pol I	other	CX.5461
+PHA-793887		CDK-pan	cell cycle	PHA.793887
+PI-103		"PI3K alpha,DNAPK"	PI3K	PI.103
+PIK-93		"PI4K,PI3K"	PI3K	PIK.93
+SB52334		ALK5	RTK	SB52334
+TPCA-1		IKK	other	TPCA.1
+TG101348		JAK2	RTK	TG101348
+Foretinib	"GSK1363089, XL-880"	MET	RTK	Foretinib
+Y-39983		ROCK	cytoskeleton	Y.39983
+YM201636		PYKfyve(FYV1)	other	YM201636
+Tivozanib	AV-951	VEGFR	RTK	Tivozanib
+GSK690693		AKT	PI3K	GSK690693
+SNX-2112		HSP90	other	SNX.2112
+QL-XI-92		DDR1	RTK	QL.XI.92
+XMD13-2		RIPK	other	XMD13.2
+QL-X-138		"MNK2, DNAPK, MTOR, BTK, JAK3"	other	QL.X.138
+XMD15-27		"CAMK2B, CLK2, DYRK1A, MAST1, STK39"	other	XMD15.27
+T0901317		LXR	other	T0901317
+EX-527		SIRT1	other	EX.527
+THZ-2-49		CDK9	cell cycle	THZ.2.49
+KIN001-270		CDK9	cell cycle	KIN001.270
+THZ-2-102-1		CDK7	cell cycle	THZ.2.102.1
+AICAR	N1-(b-D-Ribofuranosyl)-5-aminoimidazole-4-carboxamide	AMPK agonist	metabolism	AICAR
+Camptothecin	"7-Ethyl-10-Hydroxy-Camptothecin,SN-38"	TOP1	DNA replication	Camptothecin
+Vinblastine	Vinblastine sulphate	Microtubules	cytoskeleton	Vinblastine
+Cisplatin	cis-Diammineplatinum(II) dichloride	DNA crosslinker	DNA replication	Cisplatin
+Cytarabine	"Ara-Cytidine,Arabinosyl Cytosine,U-19920"	DNA synthesis	DNA replication	Cytarabine
+Docetaxel	RP-56976	Microtubules	cytoskeleton	Docetaxel
+Methotrexate		DHFR	DNA replication	Methotrexate
+ATRA	Tretinoin	Retinoic acid and retinoid X receptor agonist	other	ATRA
+Gefitinib	ZD-1839	EGFR	EGFR	Gefitinib
+ABT-263	ABT-263	"BCL-2, BCL-XL, BCL-W"	apoptosis	ABT.263
+Vorinostat	SAHA	"HDAC inhibitor Class I, IIa, IIb, IV"	chromain  histone acetylation	Vorinostat
+Nilotinib		ABL	ABL	Nilotinib
+RDEA119	RDEA119	"MEK1, MEK2"	ERK MAPK	RDEA119
+CI-1040	"PD-18435,PD-184352"	"MEK1, MEK2"	ERK MAPK	CI.1040
+Temsirolimus	CCI-779	mTOR	TOR	Temsirolimus
+AZD-2281	"KU0059436, AZD-2281"	"PARP1, PARP2"	Genome integrity	AZD.2281
+Veliparib	ABT-888	"PARP1, PARP2"	Genome integrity	Veliparib
+Bosutinib	SKI-606	"SRC, ABL, TEC"	ABL	Bosutinib
+Lenalidomide		TNF alpha	other	Lenalidomide
+Axitinib	AG-013736	"PDGFR, KIT, VEGFR"	RTK	Axitinib
+AZD7762	AZD 7762	"CHEK1, CHEK2"	Genome integrity	AZD7762
+GW-441756		NTRK1	RTK	GW.441756
+CEP-701	CEP-701	"FLT3, JAK2, NTRK1, RET"	RTK	CEP.701
+SB-216763	SB 216763	"GSK3A, GSK3B"	WNT	SB.216763
+17-AAG	tanespimycin	HSP90	other	X17.AAG
+VX-702		p38	JNK and p38	VX.702
+AMG-706	AMG-706	"VEGFR, RET, c-KIT, PDGFR"	RTK	AMG.706
+KU-55933		ATM	Genome integrity	KU.55933
+Elesclomol		HSP70	other	Elesclomol
+BIBW2992	"BIBW2992, Tovok"	"ERBB2, EGFR"	EGFR	BIBW2992
+GDC0449	GDC0449	SMO	other	GDC0449
+PLX4720		BRAF	ERK MAPK	PLX4720
+BX-795	BX 795	"TBK1, PDPK1, IKK, AURKB, AURKC"	other	BX.795
+NU-7441	KU-57788	DNAPK	Genome integrity	NU.7441
+SL-0101-1		"RSK, AURKB, PIM3"	ERK MAPK	SL.0101.1
+BIRB-0796		Androgen receptor	JNK and p38	BIRB.0796
+JNK-Inhibitor-VIII	JNK Inhibitor VIII	JNK	JNK and p38	JNK.Inhibitor.VIII
+X681640	681640	"WEE1, CHEK1"	cell cycle	X681640
+Nutlin-3a	Nutlin-3a (-)	MDM2	p53	Nutlin.3a
+PD-173074	PD-173074	"FGFR1, FGFR3"	RTK	PD.173074
+ZM-447439	ZM447439	AURKB	mitosis	ZM.447439
+RO-3306		CDK1	cell cycle	RO.3306
+MK-2206		"AKT1, AKT2"	PI3K	MK.2206
+PD-0332991	Palbociclib Isethionate	"CDK4, CDK6"	cell cycle	PD.0332991
+BEZ235	NVP-BEZ235	"PI3K (class 1), mTORC1/2"	PI3K	NVP.BEZ235
+AZD8055	AZD8055	mTORC1/2	TOR	AZD8055
+PD-0325901	PD-0325901	"MEK1, MEK2"	ERK MAPK	PD.0325901
+SB590885		BRAF	ERK MAPK	SB590885
+selumetinib		"MEK1, MEK2"	ERK MAPK	selumetinib
+CCT007093		PPM1D	other	CCT007093
+EHT-1864		Rac GTPases	cytoskeleton	EHT.1864
+Cetuximab	Erbitux	EGFR	EGFR	Cetuximab
+PF-4708671		p70 S6KA	TOR	PF.4708671
+JNJ-26854165		MDM2	p53	JNJ.26854165
+HG-5-113-01		"LOK, LTK, TRCB, ABL"	ABL	HG.5.113.01
+HG-5-88-01		"EGFR, ADCK4"	EGFR	HG.5.88.01
+TW-37		"BCL-2, BCL-XL"	apoptosis	TW.37
+XMD11-85h		"BRSK2, FLT4, MARK4, PRKCD, RET, SPRK1"	other	XMD11.85h
+ZG-10		IRAK1	other	ZG.10
+XMD8-92		ERK5	other	XMD8.92
+QL-VIII-58		"mTOR, ATR"	TOR	QL.VIII.58
+CCT018159		HSP90	other	CCT018159
+AG-014699	PF-01367338	"PARP1, PARP2"	Genome integrity	AG.014699
+SB-505124	"2-(5-Benzo[1,3]dioxol-5-yl-2-tert-butyl-3H-imidazol-4-yl)-6-methylpyridine hydrochloride hydrate"	TGFbetaR-I	other	SB.505124
+Tamoxifen		ER	other	Tamoxifen
+QL-XII-61		"BMX, BTK"	other	QL.XII.61
+JQ1		"BRD2, BRD3, BRD4"	chromatin  other	JQ1
+PFI-1		"BRD2, BRD3, BRD4"	chromatin  other	PFI.1
+IOX2		EGLN1	other	IOX2
+YK-4-279		RNA helicase A	other	YK.4.279
+(5Z)-7-Oxozeaenol		TAK1	other	.5Z..7.Oxozeaenol
+piperlongumine		Increases ROS levels	other	piperlongumine
+FK866	APO866	NAMPT inhibitor	metabolism	FK866
+Talazoparib	BMN-673	"PARP1, PARP2"	Genome integrity	Talazoparib
+rTRAIL		"DR4, DR5"	apoptosis	rTRAIL
+UNC1215		L3MBTL3	other	UNC1215
+SGC0946		DOT1L (Q8TEK3)	chromatin  histone methylation	SGC0946
+XAV939	NVP-XAV939	"TNKS1, TNKS2"	WNT	XAV939
+Trametinib	GSK1120212	"MEK1, MEK2"	ERK MAPK	Trametinib
+Dabrafenib	GSK2118436	BRAF	ERK MAPK	Dabrafenib
+Temozolomide	Temodar	DNA akylating agent	DNA replication	Temozolomide
+Bleomycin-(50-uM)		DNA damage	DNA replication	Bleomycin..50.uM.
+SN-38	7-ethyl-10-hydroxy-camptothecin	TOP1	DNA replication	SN.38
+GDC0941		PI3K	PI3K	GDC0941
+MLN4924		NEDD8-activating enzyme	other	MLN4924

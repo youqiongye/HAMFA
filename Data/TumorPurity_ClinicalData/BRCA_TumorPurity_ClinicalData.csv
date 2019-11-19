@@ -1,0 +1,490 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,race,pathologic_stage,histological_type
+TCGA-A1-A0SB,normoxic,70,0.63,WHITE,Stage I,Other
+TCGA-A1-A0SD,normoxic,59,0.48,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A1-A0SE,normoxic,56,0.5,WHITE,Stage I,Mixed Histology please specify
+TCGA-A1-A0SF,normoxic,54,0.19,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A1-A0SH,normoxic,39,0.4,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A1-A0SO,normoxic,67,0.92,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A04P,hypoxic,36,0.73,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A2-A04V,normoxic,39,0.88,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A04W,hypoxic,50,0.36,WHITE,Stage II,Other
+TCGA-A2-A0CL,normoxic,37,0.69,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A2-A0CP,hypoxic,60,0.72,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-A2-A0CV,normoxic,41,0.78,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A0CX,hypoxic,52,0.59,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A0D0,hypoxic,60,0.8,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A0D1,hypoxic,76,0.94,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A0D3,normoxic,42,0.43,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-A2-A0ER,normoxic,63,0.77,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-A2-A0ES,normoxic,52,0.13,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A2-A0ET,normoxic,58,0.92,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A2-A0EU,hypoxic,79,0.85,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-A2-A0EV,normoxic,80,0.6,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-A2-A0EW,normoxic,53,0.24,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-A2-A0EY,normoxic,62,0.64,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A0SV,hypoxic,63,0.6,WHITE,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-A2-A0SW,hypoxic,82,0.54,WHITE,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-A2-A0T0,hypoxic,59,0.79,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A0T1,hypoxic,55,0.22,Other,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A2-A0T2,hypoxic,66,0.94,WHITE,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-A2-A0T6,normoxic,50,0.53,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A2-A0T7,normoxic,51,0.65,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A0YC,normoxic,59,0.7,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A0YD,normoxic,63,0.48,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A2-A0YE,hypoxic,48,0.77,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A0YF,normoxic,67,0.8,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-A2-A0YI,normoxic,62,0.38,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-A2-A0YJ,hypoxic,39,0.72,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A2-A0YK,normoxic,61,0.19,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A2-A0YM,hypoxic,67,0.76,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A1FV,normoxic,74,0.82,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A2-A1FW,normoxic,62,0.9,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A2-A1FZ,normoxic,63,0.22,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A1G0,normoxic,49,0.16,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A1G1,hypoxic,85,0.48,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A1G6,normoxic,50,0.11,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A2-A25B,hypoxic,39,0.63,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A25C,normoxic,50,0.63,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A3KC,normoxic,55,0.49,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A2-A3XU,hypoxic,35,0.91,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A3XV,hypoxic,46,0.63,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A3XW,hypoxic,42,0.98,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A3Y0,hypoxic,57,0.56,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A2-A4RW,normoxic,49,0.53,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-A2-A4RX,hypoxic,67,0.56,BLACK OR AFRICAN AMERICAN,Stage II,Other
+TCGA-A2-A4RY,normoxic,46,0.1,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-A2-A4S1,hypoxic,66,0.56,WHITE,Stage II,Other
+TCGA-A2-A4S3,hypoxic,59,0.52,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A0CD,normoxic,66,0.97,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-A7-A0CE,hypoxic,57,0.79,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A0CG,normoxic,78,0.37,WHITE,Stage II,Mixed Histology please specify
+TCGA-A7-A0CH,normoxic,79,0.76,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A0CJ,hypoxic,57,0.81,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A0D9,normoxic,37,0.8,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A0DA,hypoxic,62,0.67,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A13D,hypoxic,46,0.85,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A13E,hypoxic,62,0.82,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A13G,normoxic,79,0.93,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A13H,normoxic,61,0.41,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A7-A26E,normoxic,71,0.72,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-A7-A26F,hypoxic,55,0.43,WHITE,Stage I,Other
+TCGA-A7-A26H,normoxic,72,0.59,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A26J,normoxic,49,0.65,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A2KD,normoxic,53,0.72,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A7-A3IY,hypoxic,71,0.1,WHITE,Stage I,Other
+TCGA-A7-A3J1,normoxic,63,0.47,WHITE,Stage I,Infiltrating Lobular Carcinoma
+TCGA-A7-A3RF,hypoxic,79,0.96,WHITE,Stage II,Other
+TCGA-A7-A4SD,hypoxic,52,0.55,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A4SE,hypoxic,54,0.6,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A56D,hypoxic,84,0.53,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A5ZV,hypoxic,62,0.82,BLACK OR AFRICAN AMERICAN,Stage II,Other
+TCGA-A7-A5ZW,normoxic,47,0.19,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A5ZX,normoxic,48,0.08,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-A7-A6VV,hypoxic,51,0.62,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A6VW,hypoxic,48,0.73,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A6VX,hypoxic,68,0.79,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A7-A6VY,hypoxic,48,0.53,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A06P,hypoxic,63,0.65,Other,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A8-A06R,hypoxic,69,0.75,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A06Y,normoxic,66,0.92,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A075,hypoxic,42,0.69,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A079,hypoxic,69,0.78,Other,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A8-A07E,normoxic,81,0.46,Other,Other,Infiltrating Ductal Carcinoma
+TCGA-A8-A07F,normoxic,65,0.77,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A07J,normoxic,35,0.59,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A07O,hypoxic,51,0.54,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A07R,hypoxic,80,0.83,Other,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A8-A07W,hypoxic,76,0.82,Other,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-A8-A081,hypoxic,80,0.84,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A083,normoxic,67,0.76,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A086,hypoxic,59,0.73,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A08B,hypoxic,52,0.75,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A08C,normoxic,65,0.93,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A08I,hypoxic,53,0.78,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A08J,hypoxic,52,0.67,Other,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-A8-A08L,hypoxic,89,0.72,Other,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A8-A08O,normoxic,45,0.75,Other,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-A8-A08T,hypoxic,64,0.85,Other,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-A8-A08X,hypoxic,43,0.39,Other,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A8-A091,normoxic,61,0.86,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A093,normoxic,61,0.9,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A094,hypoxic,75,0.56,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A097,normoxic,65,0.67,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A099,normoxic,76,0.85,Other,Other,Infiltrating Ductal Carcinoma
+TCGA-A8-A09B,normoxic,58,0.76,Other,Stage III,Infiltrating Ductal Carcinoma
+TCGA-A8-A09C,normoxic,69,0.86,Other,Other,Infiltrating Ductal Carcinoma
+TCGA-A8-A09D,hypoxic,47,0.54,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-A8-A09V,normoxic,51,0.86,Other,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A8-A09Z,normoxic,83,0.86,Other,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A8-A0A2,normoxic,66,0.83,Other,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A8-A0A4,normoxic,73,0.58,Other,Stage II,Infiltrating Lobular Carcinoma
+TCGA-A8-A0A6,normoxic,64,0.45,Other,Stage III,Infiltrating Lobular Carcinoma
+TCGA-A8-A0AB,normoxic,54,0.9,Other,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AC-A23C,normoxic,62,0.54,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AC-A2B8,normoxic,84,0.66,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AC-A2FB,normoxic,65,0.92,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AC-A2FF,normoxic,40,0.45,ASIAN,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AC-A2FG,normoxic,79,0.26,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AC-A2FK,normoxic,45,0.69,Other,Stage III,Infiltrating Lobular Carcinoma
+TCGA-AC-A2FO,normoxic,65,0.33,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AC-A2QH,hypoxic,58,0.92,WHITE,Stage II,Other
+TCGA-AC-A2QI,normoxic,76,0.28,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-AC-A2QJ,hypoxic,48,0.7,Other,Stage III,Other
+TCGA-AC-A3OD,normoxic,68,0.24,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AC-A62X,hypoxic,72,0.85,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AC-A6IV,normoxic,47,0.2,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AC-A6IX,normoxic,49,0.46,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-AC-A8OP,normoxic,72,0.58,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AC-A8OQ,hypoxic,72,0.28,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AC-A8OR,hypoxic,75,0.87,WHITE,Stage I,Other
+TCGA-AN-A041,normoxic,29,0.71,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A04A,hypoxic,36,0.68,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AN-A0AJ,hypoxic,79,0.74,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A0AL,hypoxic,41,0.71,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AN-A0AM,hypoxic,56,0.48,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A0AS,hypoxic,70,0.64,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AN-A0AT,hypoxic,62,0.64,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A0FD,hypoxic,71,0.78,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A0FJ,hypoxic,59,0.8,WHITE,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-AN-A0FL,hypoxic,62,0.94,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A0FN,normoxic,61,0.19,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AN-A0FS,normoxic,55,0.62,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AN-A0FV,hypoxic,58,0.65,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A0FX,hypoxic,52,0.65,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A0FY,hypoxic,55,0.82,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AN-A0FZ,normoxic,45,0.87,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AN-A0G0,hypoxic,56,0.72,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A0XL,normoxic,61,0.5,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AN-A0XN,hypoxic,68,0.55,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AN-A0XO,hypoxic,59,0.67,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AN-A0XP,normoxic,69,0.68,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AN-A0XR,hypoxic,55,0.93,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AN-A0XS,normoxic,63,0.75,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AN-A0XU,hypoxic,54,0.75,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AO-A03R,hypoxic,57,0.59,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AO-A0J2,hypoxic,41,0.81,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AO-A0J3,normoxic,67,0.93,WHITE,Stage II,Other
+TCGA-AO-A0J4,hypoxic,41,0.57,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AO-A0J5,normoxic,48,0.63,WHITE,Stage IV,Other
+TCGA-AO-A0J6,hypoxic,61,0.62,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AO-A0JA,normoxic,36,0.62,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AO-A0JD,hypoxic,59,0.61,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AO-A0JE,hypoxic,53,0.43,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AO-A0JG,normoxic,49,0.22,WHITE,Stage III,Other
+TCGA-AO-A0JI,normoxic,56,0.79,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AO-A0JJ,normoxic,54,0.49,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AO-A0JM,hypoxic,40,0.72,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AO-A124,hypoxic,38,0.87,WHITE,Stage II,Other
+TCGA-AO-A129,hypoxic,29,0.51,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AO-A12A,normoxic,47,0.43,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AO-A1KO,normoxic,46,0.68,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AO-A1KP,normoxic,77,0.94,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AO-A1KR,hypoxic,51,0.59,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AO-A1KS,normoxic,69,0.92,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AO-A1KT,hypoxic,78,0.73,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AQ-A0Y5,hypoxic,70,0.59,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AQ-A54N,hypoxic,51,0.92,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AQ-A54O,normoxic,51,0.79,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AQ-A7U7,normoxic,55,0.23,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-AR-A0TP,hypoxic,43,0.95,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A0TR,normoxic,68,0.93,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A0TW,hypoxic,50,0.6,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AR-A0TZ,normoxic,43,0.88,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AR-A0U0,hypoxic,73,0.47,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A0U4,hypoxic,54,0.3,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A1AH,hypoxic,51,0.86,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A1AI,hypoxic,47,0.36,WHITE,Stage II,Other
+TCGA-AR-A1AL,normoxic,60,0.19,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-AR-A1AM,normoxic,52,0.26,WHITE,Stage II,Other
+TCGA-AR-A1AN,normoxic,46,0.46,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A1AP,hypoxic,80,0.61,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AR-A1AS,hypoxic,54,0.82,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A1AU,hypoxic,39,0.44,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AR-A1AV,normoxic,68,0.71,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A1AW,normoxic,65,0.18,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A1AY,hypoxic,65,0.72,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AR-A24H,normoxic,65,0.87,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AR-A24M,normoxic,38,0.24,WHITE,Stage III,Mixed Histology please specify
+TCGA-AR-A24N,hypoxic,54,0.76,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AR-A24O,normoxic,43,0.16,WHITE,Stage III,Mixed Histology please specify
+TCGA-AR-A24P,normoxic,47,0.62,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AR-A24Q,hypoxic,49,0.69,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A24S,normoxic,61,0.71,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AR-A24V,hypoxic,52,0.56,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A24X,normoxic,52,0.98,WHITE,Stage II,Mixed Histology please specify
+TCGA-AR-A24Z,normoxic,57,0.88,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A250,normoxic,58,0.69,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-AR-A252,normoxic,50,0.12,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AR-A254,hypoxic,50,0.54,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-AR-A255,normoxic,62,0.89,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-AR-A2LE,normoxic,69,0.71,WHITE,Stage I,Infiltrating Lobular Carcinoma
+TCGA-AR-A2LK,normoxic,62,0.73,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-AR-A2LL,normoxic,70,0.78,WHITE,Stage II,Other
+TCGA-AR-A2LM,normoxic,49,0.53,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AR-A2LN,normoxic,65,0.24,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AR-A2LO,normoxic,46,0.21,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AR-A2LQ,normoxic,59,0.96,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-AR-A5QQ,hypoxic,68,0.14,WHITE,Stage III,Other
+TCGA-B6-A0I1,hypoxic,73,0.77,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0I2,hypoxic,45,0.48,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-B6-A0I6,hypoxic,49,0.69,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0I8,normoxic,46,0.75,WHITE,Other,Infiltrating Ductal Carcinoma
+TCGA-B6-A0I9,hypoxic,62,0.68,WHITE,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-B6-A0IA,hypoxic,51,0.94,WHITE,Stage II,Other
+TCGA-B6-A0IG,hypoxic,50,0.7,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0IH,normoxic,81,0.76,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-B6-A0IJ,hypoxic,42,0.51,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0IK,hypoxic,63,0.53,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-B6-A0IM,normoxic,75,0.85,BLACK OR AFRICAN AMERICAN,Stage II,Other
+TCGA-B6-A0IP,normoxic,74,0.58,WHITE,Stage I,Infiltrating Lobular Carcinoma
+TCGA-B6-A0IQ,hypoxic,40,0.66,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-B6-A0RH,hypoxic,51,0.61,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0RI,hypoxic,44,0.76,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-B6-A0RN,normoxic,60,0.83,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-B6-A0RP,normoxic,73,0.74,WHITE,Stage III,Mixed Histology please specify
+TCGA-B6-A0RQ,normoxic,68,0.63,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-B6-A0RS,hypoxic,38,0.68,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0RU,hypoxic,49,0.47,WHITE,Stage I,Other
+TCGA-B6-A0WT,normoxic,61,0.69,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0WV,hypoxic,67,0.78,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0WX,normoxic,40,0.33,BLACK OR AFRICAN AMERICAN,Stage III,Other
+TCGA-B6-A0WZ,hypoxic,50,0.63,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0X0,normoxic,54,0.62,WHITE,Stage I,Other
+TCGA-B6-A0X4,hypoxic,62,0.52,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0X5,hypoxic,61,0.96,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A0X7,normoxic,62,0.77,WHITE,Other,Mixed Histology please specify
+TCGA-B6-A1KC,normoxic,67,0.85,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A1KF,hypoxic,68,0.88,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-B6-A1KI,normoxic,63,0.82,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-B6-A2IU,normoxic,62,0.66,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-BH-A0AV,hypoxic,52,0.3,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0AW,hypoxic,56,0.57,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0B1,normoxic,66,0.75,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0B3,hypoxic,53,0.53,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0B5,normoxic,40,0.65,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-BH-A0BA,normoxic,51,0.6,WHITE,Stage III,Mixed Histology please specify
+TCGA-BH-A0BC,hypoxic,60,0.54,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A0BF,normoxic,56,0.2,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0BJ,normoxic,41,0.96,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0BL,hypoxic,35,0.39,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0BM,normoxic,54,0.17,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0BO,normoxic,54,0.18,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0BR,hypoxic,59,0.22,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0BV,normoxic,78,0.69,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0C1,normoxic,61,0.58,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-BH-A0DD,normoxic,58,0.28,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0DE,normoxic,62,0.23,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0DH,normoxic,63,0.79,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0DL,hypoxic,64,0.43,WHITE,Stage II,Other
+TCGA-BH-A0DP,normoxic,60,0.46,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-BH-A0DS,hypoxic,71,0.62,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A0DT,normoxic,41,0.45,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0DV,normoxic,54,0.54,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A0DZ,hypoxic,43,0.64,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0E0,hypoxic,38,0.71,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A0E2,hypoxic,49,0.71,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A0E7,normoxic,79,0.82,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0E9,normoxic,53,0.17,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-BH-A0EA,normoxic,72,0.54,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0EB,normoxic,69,0.56,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0EE,hypoxic,68,0.65,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0GY,hypoxic,67,0.66,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0H3,normoxic,46,0.49,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0H5,normoxic,45,0.14,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0H7,hypoxic,65,0.78,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A0HB,hypoxic,55,0.66,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0HF,hypoxic,77,0.22,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0HI,normoxic,78,0.68,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0HN,normoxic,67,0.92,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A0W3,normoxic,58,0.88,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0W4,normoxic,46,0.52,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A0WA,hypoxic,82,0.68,WHITE,Stage I,Other
+TCGA-BH-A18G,hypoxic,81,0.66,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A18I,normoxic,53,0.71,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A18J,hypoxic,56,0.23,WHITE,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-BH-A18S,normoxic,79,0.89,WHITE,Stage I,Other
+TCGA-BH-A18T,hypoxic,70,0.76,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A18U,hypoxic,72,0.88,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A1EN,hypoxic,78,0.89,WHITE,Stage II,Other
+TCGA-BH-A1EO,normoxic,68,0.61,WHITE,Stage II,Other
+TCGA-BH-A1ES,normoxic,35,0.84,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A1ET,normoxic,55,0.67,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A1EU,normoxic,83,0.34,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A1EV,hypoxic,45,0.75,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A1EX,normoxic,67,0.64,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A1F2,normoxic,53,0.87,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A1F5,normoxic,62,0.9,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A1F6,hypoxic,51,0.54,WHITE,Other,Infiltrating Ductal Carcinoma
+TCGA-BH-A1FD,hypoxic,68,0.69,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-BH-A1FE,normoxic,31,0.17,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A1FH,normoxic,47,0.16,WHITE,Stage IV,Infiltrating Ductal Carcinoma
+TCGA-BH-A1FJ,normoxic,66,0.96,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A1FL,normoxic,69,0.79,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A1FM,hypoxic,44,0.81,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-BH-A1FN,hypoxic,34,0.79,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A202,hypoxic,60,0.86,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A203,hypoxic,78,0.45,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-BH-A28O,normoxic,50,0.11,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-C8-A12K,hypoxic,80,0.25,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A12L,hypoxic,67,0.72,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A12N,hypoxic,58,0.86,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A12O,hypoxic,50,0.5,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A12P,hypoxic,55,0.45,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A12T,hypoxic,43,0.75,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A12Y,hypoxic,44,0.73,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A12Z,hypoxic,45,0.7,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A130,hypoxic,52,0.7,ASIAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-C8-A131,hypoxic,82,0.91,ASIAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-C8-A135,hypoxic,64,0.22,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A137,hypoxic,34,0.74,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A1HE,normoxic,59,0.72,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A1HF,hypoxic,48,0.65,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A1HK,normoxic,53,0.88,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A1HM,hypoxic,74,0.61,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A278,hypoxic,61,0.18,ASIAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-C8-A27A,hypoxic,48,0.88,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A27B,hypoxic,48,0.73,ASIAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-C8-A3M7,normoxic,60,0.37,ASIAN,Stage III,Infiltrating Lobular Carcinoma
+TCGA-D8-A13Z,hypoxic,51,0.67,WHITE,Other,Infiltrating Ductal Carcinoma
+TCGA-D8-A140,normoxic,62,0.64,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A142,hypoxic,74,0.51,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A143,hypoxic,51,0.78,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A145,normoxic,80,0.14,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A146,normoxic,57,0.47,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1J8,hypoxic,77,0.74,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1J9,hypoxic,48,0.7,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JA,hypoxic,60,0.79,WHITE,Other,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JB,normoxic,54,0.2,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JD,hypoxic,41,0.7,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JE,normoxic,62,0.57,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JF,normoxic,79,0.62,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JG,hypoxic,62,0.29,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JH,normoxic,56,0.1,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JI,normoxic,54,0.89,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JJ,hypoxic,54,0.62,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JK,hypoxic,90,0.58,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JM,hypoxic,59,0.76,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1JN,normoxic,80,0.88,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-D8-A1JT,hypoxic,70,0.95,WHITE,Stage II,Other
+TCGA-D8-A1JU,normoxic,51,0.39,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-D8-A1X7,normoxic,40,0.76,WHITE,Stage II,Other
+TCGA-D8-A1X8,normoxic,62,0.59,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-D8-A1XB,normoxic,62,0.52,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1XF,normoxic,45,0.8,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1XJ,hypoxic,76,0.78,WHITE,Stage III,Other
+TCGA-D8-A1XK,hypoxic,55,0.58,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1XL,hypoxic,34,0.84,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1XM,normoxic,57,0.49,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-D8-A1XO,normoxic,56,0.6,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-D8-A1XQ,hypoxic,69,0.61,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1XR,normoxic,56,0.83,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1XT,hypoxic,61,0.5,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-D8-A1XZ,hypoxic,81,0.76,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-D8-A1Y0,normoxic,65,0.53,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-D8-A27V,normoxic,62,0.29,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-D8-A3Z5,normoxic,54,0.2,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-D8-A4Z1,normoxic,68,0.73,WHITE,Stage I,Infiltrating Lobular Carcinoma
+TCGA-E2-A10A,normoxic,41,0.95,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A10F,normoxic,47,0.46,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-E2-A14O,hypoxic,76,0.81,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-E2-A14P,hypoxic,79,0.49,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-E2-A14R,hypoxic,62,0.87,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A14U,normoxic,74,0.15,WHITE,Stage I,Infiltrating Lobular Carcinoma
+TCGA-E2-A14V,hypoxic,53,0.59,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A14Y,hypoxic,35,0.7,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A150,hypoxic,48,0.67,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A152,hypoxic,56,0.66,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E2-A153,hypoxic,51,0.79,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A156,normoxic,61,0.93,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E2-A159,hypoxic,50,0.23,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A15C,normoxic,61,0.62,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E2-A15D,normoxic,47,0.27,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A15F,hypoxic,64,0.21,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E2-A15G,normoxic,76,0.2,WHITE,Stage II,Mixed Histology please specify
+TCGA-E2-A15I,normoxic,44,0.61,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A15L,normoxic,65,0.67,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Lobular Carcinoma
+TCGA-E2-A15M,normoxic,66,0.34,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-E2-A15O,normoxic,89,0.78,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E2-A15T,hypoxic,65,0.85,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A1B0,hypoxic,50,0.4,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-E2-A1B1,normoxic,45,0.6,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A1B4,normoxic,74,0.66,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-E2-A1B5,normoxic,46,0.16,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-E2-A1BC,normoxic,63,0.21,Other,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E2-A1BD,normoxic,53,0.7,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A1IJ,normoxic,57,0.19,WHITE,Stage I,Infiltrating Lobular Carcinoma
+TCGA-E2-A1IL,normoxic,78,0.72,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-E2-A1IO,normoxic,37,0.47,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E2-A1IP,hypoxic,42,0.84,Other,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E2-A1IU,normoxic,60,0.62,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E2-A1L7,hypoxic,40,0.75,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-E2-A1L8,normoxic,52,0.63,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Lobular Carcinoma
+TCGA-E2-A1LG,hypoxic,50,0.81,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Lobular Carcinoma
+TCGA-E2-A1LK,hypoxic,84,0.71,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-E2-A1LL,hypoxic,73,0.61,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-E2-A3DX,normoxic,43,0.21,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-E2-A573,hypoxic,48,0.24,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E9-A1N8,hypoxic,48,0.92,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A1ND,hypoxic,75,0.44,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A1NF,hypoxic,60,0.56,WHITE,Stage II,Mixed Histology please specify
+TCGA-E9-A1NG,hypoxic,62,0.22,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A1NH,normoxic,71,0.64,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A1NI,hypoxic,51,0.78,WHITE,Stage II,Mixed Histology please specify
+TCGA-E9-A1QZ,normoxic,61,0.56,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A1R3,normoxic,70,0.66,WHITE,Stage III,Infiltrating Ductal Carcinoma
+TCGA-E9-A1R4,normoxic,66,0.52,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E9-A1R5,normoxic,63,0.7,WHITE,Stage I,Infiltrating Ductal Carcinoma
+TCGA-E9-A1R7,normoxic,64,0.61,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A1RH,hypoxic,63,0.44,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A1RI,normoxic,43,0.54,WHITE,Stage III,Mixed Histology please specify
+TCGA-E9-A243,normoxic,52,0.2,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A244,hypoxic,54,0.6,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A24A,normoxic,69,0.66,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-E9-A2JT,normoxic,63,0.11,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-E9-A3Q9,normoxic,78,0.35,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-E9-A3QA,hypoxic,33,0.24,WHITE,Stage II,Other
+TCGA-E9-A54X,hypoxic,85,0.85,WHITE,Stage I,Other
+TCGA-E9-A5FL,hypoxic,65,0.28,WHITE,Stage II,Other
+TCGA-E9-A6HE,hypoxic,45,0.6,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-EW-A1IX,normoxic,48,0.99,ASIAN,Stage II,Other
+TCGA-EW-A1IY,normoxic,38,0.42,ASIAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-EW-A1J2,normoxic,50,0.23,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Lobular Carcinoma
+TCGA-EW-A1J5,normoxic,59,0.84,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-EW-A1OV,hypoxic,56,0.45,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-EW-A1OY,hypoxic,63,0.76,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-EW-A1OZ,hypoxic,56,0.92,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-EW-A1P0,normoxic,55,0.87,WHITE,Stage II,Mixed Histology please specify
+TCGA-EW-A1P4,hypoxic,43,0.56,WHITE,Stage II,Other
+TCGA-EW-A1PB,hypoxic,70,0.27,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-EW-A1PE,normoxic,56,0.68,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-EW-A1PH,hypoxic,52,0.76,WHITE,Stage II,Infiltrating Ductal Carcinoma
+TCGA-EW-A2FR,hypoxic,59,0.17,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-EW-A2FV,hypoxic,39,0.22,WHITE,Stage III,Other
+TCGA-EW-A423,normoxic,75,0.79,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-GM-A3NY,normoxic,72,0.71,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-GM-A3XL,hypoxic,49,0.66,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-GM-A4E0,normoxic,67,0.21,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-GM-A5PX,normoxic,65,0.21,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-JL-A3YW,hypoxic,49,0.34,ASIAN,Stage II,Infiltrating Lobular Carcinoma
+TCGA-JL-A3YX,hypoxic,46,0.7,ASIAN,Stage II,Infiltrating Lobular Carcinoma
+TCGA-LD-A7W6,normoxic,54,0.58,WHITE,Stage II,Other
+TCGA-LD-A9QF,hypoxic,73,0.14,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-LL-A440,normoxic,61,0.11,WHITE,Stage I,Infiltrating Lobular Carcinoma
+TCGA-LL-A441,normoxic,62,0.19,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-LL-A6FR,hypoxic,50,0.63,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-LL-A8F5,hypoxic,61,0.66,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-LQ-A4E4,normoxic,73,0.85,WHITE,Stage III,Infiltrating Lobular Carcinoma
+TCGA-OL-A5RW,hypoxic,40,0.84,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-OL-A5RX,normoxic,51,0.21,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-OL-A5RY,hypoxic,52,0.11,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-OL-A5S0,hypoxic,66,0.57,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-OL-A66K,normoxic,72,0.55,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-OL-A66O,hypoxic,39,0.88,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-OL-A66P,hypoxic,75,0.2,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-S3-A6ZF,normoxic,64,0.7,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-S3-A6ZG,normoxic,71,0.82,BLACK OR AFRICAN AMERICAN,Stage II,Other
+TCGA-S3-A6ZH,normoxic,29,0.88,BLACK OR AFRICAN AMERICAN,Stage III,Infiltrating Ductal Carcinoma
+TCGA-S3-AA11,normoxic,67,0.58,BLACK OR AFRICAN AMERICAN,Stage II,Infiltrating Ductal Carcinoma
+TCGA-S3-AA14,normoxic,47,0.63,BLACK OR AFRICAN AMERICAN,Stage I,Infiltrating Ductal Carcinoma
+TCGA-W8-A86G,normoxic,66,0.46,WHITE,Stage II,Infiltrating Lobular Carcinoma
+TCGA-XX-A89A,normoxic,68,0.52,WHITE,Stage II,Infiltrating Lobular Carcinoma

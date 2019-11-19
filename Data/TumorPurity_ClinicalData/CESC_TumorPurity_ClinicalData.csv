@@ -1,0 +1,110 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,race,pathologic_stage,histological_type,tobacco_smoking_history
+TCGA-BI-A0VR,hypoxic,53,0.23,WHITE,Stage III,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A0TN,hypoxic,21,0.93,BLACK OR AFRICAN AMERICAN,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A1BE,hypoxic,64,0.57,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A1BF,hypoxic,46,0.56,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A1BN,hypoxic,26,0.8,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A1BQ,hypoxic,65,0.74,WHITE,Stage III,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A1M6,normoxic,55,0.82,WHITE,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A1M9,hypoxic,46,0.95,WHITE,Stage I,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-C5-A1MF,hypoxic,49,0.94,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A1MI,normoxic,50,0.78,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A1MJ,normoxic,61,0.75,WHITE,Stage I,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-C5-A1MK,hypoxic,79,0.49,WHITE,Stage III,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A2LS,normoxic,37,0.69,WHITE,Stage I,Other,Smoker
+TCGA-C5-A2LV,hypoxic,36,0.74,BLACK OR AFRICAN AMERICAN,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A2M1,normoxic,37,0.7,WHITE,Stage I,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-C5-A2M2,normoxic,56,0.95,WHITE,Stage I,Endocervical Type of Adenocarcinoma,Smoker
+TCGA-C5-A3HD,hypoxic,51,0.92,WHITE,Stage II,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A3HE,hypoxic,44,0.63,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A3HF,normoxic,24,0.09,WHITE,Stage I,Other,Smoker
+TCGA-C5-A3HL,hypoxic,76,0.64,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A7CG,normoxic,55,0.22,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A7CK,hypoxic,58,0.55,WHITE,Stage IV,Cervical Squamous Cell Carcinoma,Other
+TCGA-C5-A7CL,hypoxic,48,0.57,WHITE,Stage III,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A7CM,normoxic,35,0.72,WHITE,Stage I,Other,Smoker
+TCGA-C5-A7UC,hypoxic,48,0.8,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Other
+TCGA-C5-A7UE,hypoxic,45,0.63,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A7UH,hypoxic,55,0.76,WHITE,Stage III,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A7UI,hypoxic,42,0.53,BLACK OR AFRICAN AMERICAN,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A7X3,hypoxic,70,0.31,WHITE,Stage III,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A7X8,normoxic,35,0.72,WHITE,Stage I,Other,Smoker
+TCGA-C5-A8YR,hypoxic,56,0.86,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-C5-A8YT,normoxic,36,0.95,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A8ZZ,hypoxic,41,0.71,WHITE,Stage II,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-C5-A907,hypoxic,47,0.61,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-DS-A0VN,hypoxic,47,0.87,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-DS-A7WF,normoxic,41,0.1,Other,Stage I,Other,Smoker
+TCGA-DS-A7WH,normoxic,34,0.67,WHITE,Stage I,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-DS-A7WI,hypoxic,43,0.86,WHITE,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EA-A3Y4,hypoxic,40,0.61,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EA-A439,normoxic,50,0.71,ASIAN,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EA-A43B,hypoxic,43,0.5,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EA-A50E,hypoxic,45,0.5,ASIAN,Stage IV,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EA-A556,normoxic,38,0.83,WHITE,Stage I,Other,Smoker
+TCGA-EA-A5FO,hypoxic,59,0.94,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EA-A5O9,hypoxic,39,0.89,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EA-A5ZF,normoxic,56,0.86,ASIAN,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EA-A78R,hypoxic,54,0.37,ASIAN,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EK-A2GZ,hypoxic,64,0.55,BLACK OR AFRICAN AMERICAN,Stage III,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A2H0,hypoxic,24,0.76,WHITE,Stage II,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A2PG,hypoxic,88,0.76,BLACK OR AFRICAN AMERICAN,Other,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A2PK,normoxic,43,0.6,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A2PM,hypoxic,81,0.76,WHITE,Stage II,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A2R7,normoxic,45,0.74,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A2R8,hypoxic,48,0.61,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A2RE,hypoxic,26,0.86,WHITE,Stage II,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A2RJ,normoxic,51,0.51,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A2RL,normoxic,32,0.93,BLACK OR AFRICAN AMERICAN,Stage I,Endocervical Type of Adenocarcinoma,Other
+TCGA-EK-A2RO,hypoxic,59,0.7,Other,Stage II,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A3GJ,hypoxic,51,0.86,Other,Stage I,Cervical Squamous Cell Carcinoma,Other
+TCGA-EK-A3GM,normoxic,65,0.87,WHITE,Stage II,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-EX-A3L1,hypoxic,32,0.18,WHITE,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-EX-A8YF,normoxic,44,0.56,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-FU-A23K,hypoxic,28,0.71,WHITE,Stage III,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-FU-A23L,normoxic,60,0.62,WHITE,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-FU-A3HY,hypoxic,47,0.77,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-FU-A3HZ,hypoxic,64,0.91,WHITE,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-FU-A3NI,normoxic,45,0.78,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-FU-A3TQ,hypoxic,55,0.64,WHITE,Stage III,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-FU-A40J,normoxic,38,0.68,WHITE,Stage III,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-FU-A57G,normoxic,49,0.62,WHITE,Stage I,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-FU-A770,normoxic,33,0.63,WHITE,Stage III,Other,Smoker
+TCGA-GH-A9DA,hypoxic,27,0.75,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-HM-A4S6,hypoxic,51,0.58,WHITE,Stage III,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-HM-A6W2,normoxic,34,0.85,BLACK OR AFRICAN AMERICAN,Stage IV,Other,Smoker
+TCGA-IR-A3L7,normoxic,37,0.78,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-IR-A3LA,normoxic,60,0.83,WHITE,Stage I,Other,NonSmoker
+TCGA-IR-A3LB,normoxic,53,0.69,WHITE,Stage I,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-IR-A3LF,normoxic,64,0.53,WHITE,Stage I,Other,NonSmoker
+TCGA-IR-A3LI,hypoxic,48,0.97,WHITE,Stage IV,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-IR-A3LK,hypoxic,69,0.85,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-IR-A3LL,hypoxic,60,0.5,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-JW-A5VG,hypoxic,35,0.82,Other,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-JW-A5VH,hypoxic,53,0.82,Other,Stage IV,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-JW-A5VK,hypoxic,43,0.96,BLACK OR AFRICAN AMERICAN,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-JW-A5VL,hypoxic,37,0.83,Other,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-JW-A69B,normoxic,44,0.79,WHITE,Stage I,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-JW-A852,hypoxic,42,0.85,WHITE,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-JW-AAVH,normoxic,46,0.92,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-LP-A4AU,hypoxic,35,0.16,ASIAN,Stage III,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-LP-A4AV,hypoxic,63,0.65,ASIAN,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-MU-A8JM,hypoxic,46,0.62,WHITE,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-MY-A5BD,normoxic,62,0.93,WHITE,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-MY-A5BF,hypoxic,68,0.81,WHITE,Stage II,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-MY-A913,hypoxic,28,0.66,BLACK OR AFRICAN AMERICAN,Stage II,Cervical Squamous Cell Carcinoma,Other
+TCGA-PN-A8MA,normoxic,43,0.87,BLACK OR AFRICAN AMERICAN,Stage II,Cervical Squamous Cell Carcinoma,Other
+TCGA-Q1-A5R1,normoxic,32,0.63,WHITE,Stage I,Other,NonSmoker
+TCGA-Q1-A5R3,hypoxic,56,0.69,WHITE,Other,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-Q1-A6DT,hypoxic,55,0.63,WHITE,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-Q1-A6DV,normoxic,36,0.15,ASIAN,Stage I,Other,NonSmoker
+TCGA-Q1-A73O,hypoxic,37,0.13,Other,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-Q1-A73P,normoxic,45,0.8,WHITE,Stage I,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-Q1-A73R,normoxic,45,0.95,WHITE,Stage I,Endocervical Type of Adenocarcinoma,NonSmoker
+TCGA-UC-A7PD,hypoxic,21,0.66,Other,Stage I,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-VS-A8EB,hypoxic,41,0.9,WHITE,Stage III,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-VS-A8EC,hypoxic,55,0.94,WHITE,Stage III,Cervical Squamous Cell Carcinoma,Other
+TCGA-VS-A8EG,hypoxic,36,0.85,Other,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-VS-A8QA,hypoxic,44,0.92,Other,Stage I,Cervical Squamous Cell Carcinoma,NonSmoker
+TCGA-VS-A94Y,hypoxic,47,0.73,WHITE,Stage II,Cervical Squamous Cell Carcinoma,Smoker
+TCGA-VS-A952,normoxic,66,0.93,WHITE,Stage I,Other,NonSmoker

@@ -1,0 +1,147 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,gender,race,pathologic_stage,histological_type
+TCGA-B7-5816,hypoxic,51,0.75,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-B7-5818,hypoxic,62,0.76,MALE,WHITE,Stage I,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-BR-4255,normoxic,76,0.24,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-4257,hypoxic,79,0.62,FEMALE,WHITE,Other,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-4280,hypoxic,78,0.74,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-4292,hypoxic,73,0.71,FEMALE,WHITE,Other,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-4294,normoxic,65,0.96,MALE,WHITE,Other,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-BR-4361,hypoxic,66,0.63,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-4362,hypoxic,74,0.59,FEMALE,WHITE,Other,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-4363,hypoxic,60,0.63,FEMALE,WHITE,Other,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-4369,hypoxic,75,0.57,MALE,WHITE,Other,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-4371,hypoxic,71,0.7,FEMALE,WHITE,Other,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-6452,hypoxic,78,0.54,FEMALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-6457,normoxic,69,0.17,MALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-6563,normoxic,60,0.99,FEMALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-6564,normoxic,46,0.19,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-BR-6566,hypoxic,64,0.5,FEMALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-6705,normoxic,68,0.13,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-6707,hypoxic,75,0.52,MALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-6802,hypoxic,65,0.25,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-6803,normoxic,54,0.15,FEMALE,WHITE,Stage II,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-BR-6852,hypoxic,64,0.94,FEMALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-7703,hypoxic,81,0.63,MALE,WHITE,Stage I,Other
+TCGA-BR-7707,hypoxic,69,0.68,FEMALE,WHITE,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-7717,hypoxic,63,0.58,MALE,WHITE,Stage IV,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-7851,hypoxic,74,0.6,MALE,WHITE,Stage II,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-7957,normoxic,50,0.18,FEMALE,WHITE,Stage IV,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8363,hypoxic,73,0.94,FEMALE,WHITE,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8364,normoxic,42,0.85,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-BR-8365,normoxic,70,0.94,FEMALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8367,normoxic,55,0.94,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8368,hypoxic,84,0.54,FEMALE,WHITE,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8371,normoxic,62,0.88,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8380,normoxic,55,0.81,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8382,hypoxic,67,0.08,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8384,normoxic,69,0.67,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8590,normoxic,62,0.67,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8592,normoxic,63,0.14,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-BR-8678,hypoxic,76,0.85,MALE,WHITE,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-8680,hypoxic,45,0.68,MALE,ASIAN,Stage IV,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-BR-8682,normoxic,52,0.45,MALE,ASIAN,Stage II,Other
+TCGA-BR-A44U,hypoxic,70,0.64,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-A452,hypoxic,57,0.63,MALE,ASIAN,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-BR-A453,normoxic,51,0.9,MALE,ASIAN,Stage IV,Other
+TCGA-BR-A4CR,hypoxic,70,0.78,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-A4CS,hypoxic,77,0.57,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-A4IU,normoxic,34,0.99,FEMALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-BR-A4IV,normoxic,47,0.11,MALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-BR-A4IY,hypoxic,58,0.22,MALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-A4IZ,normoxic,45,0.6,FEMALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-BR-A4J1,hypoxic,63,0.78,MALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-A4J4,hypoxic,39,0.5,MALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-A4J5,normoxic,56,0.73,MALE,ASIAN,Stage III,Other
+TCGA-BR-A4J6,normoxic,69,0.6,FEMALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-A4J7,normoxic,49,0.18,MALE,ASIAN,Stage II,Other
+TCGA-BR-A4J9,normoxic,55,0.72,MALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-A4PE,hypoxic,68,0.67,FEMALE,WHITE,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-BR-A4QL,hypoxic,75,0.75,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CD-5798,hypoxic,82,0.13,MALE,ASIAN,Stage II,Other
+TCGA-CD-5803,normoxic,78,0.19,FEMALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CD-5804,hypoxic,90,0.4,MALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CD-8525,hypoxic,82,0.93,FEMALE,ASIAN,Stage III,Other
+TCGA-CD-8527,hypoxic,72,0.56,FEMALE,ASIAN,Stage II,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CD-8528,hypoxic,43,0.88,FEMALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CD-8536,hypoxic,74,0.84,MALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CD-A486,hypoxic,68,0.73,MALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CD-A487,hypoxic,51,0.47,MALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-CD-A489,normoxic,58,0.65,MALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-CD-A48A,hypoxic,57,0.83,MALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CD-A48C,hypoxic,79,0.82,FEMALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CD-A4MG,hypoxic,76,0.54,MALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-CD-A4MJ,hypoxic,60,0.72,MALE,ASIAN,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-4436,hypoxic,57,0.65,MALE,Other,Stage I,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-4437,hypoxic,83,0.61,MALE,Other,Stage II,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-4438,hypoxic,56,0.62,MALE,Other,Stage IV,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-4440,hypoxic,68,0.72,FEMALE,Other,Stage IV,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-4441,hypoxic,83,0.61,MALE,Other,Stage III,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-4442,hypoxic,85,0.37,MALE,Other,Stage I,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-4465,hypoxic,69,0.7,FEMALE,Other,Stage IV,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-CG-4466,hypoxic,81,0.87,FEMALE,Other,Stage I,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-4472,normoxic,49,0.59,MALE,Other,Stage IV,Other
+TCGA-CG-4475,hypoxic,76,0.6,MALE,Other,Stage II,Other
+TCGA-CG-5721,hypoxic,58,0.88,MALE,Other,Stage IV,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-5722,hypoxic,67,0.59,FEMALE,Other,Stage IV,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-5723,hypoxic,83,0.51,MALE,Other,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-5724,hypoxic,59,0.71,MALE,Other,Stage IV,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-CG-5725,hypoxic,72,0.96,MALE,Other,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-5726,hypoxic,73,0.48,MALE,Other,Stage I,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-CG-5734,hypoxic,68,0.13,MALE,Other,Stage III,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-D7-5577,hypoxic,53,0.75,FEMALE,WHITE,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-D7-6518,normoxic,75,0.3,MALE,WHITE,Stage IV,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-D7-6524,normoxic,53,0.19,MALE,WHITE,Stage II,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-D7-6525,hypoxic,58,0.73,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-D7-6528,hypoxic,70,0.79,FEMALE,WHITE,Stage I,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-D7-8573,hypoxic,57,0.97,MALE,WHITE,Stage II,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-D7-8574,normoxic,72,0.88,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-D7-8575,normoxic,75,0.86,MALE,WHITE,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-D7-8579,normoxic,66,0.91,FEMALE,WHITE,Stage II,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-D7-A4YV,normoxic,69,0.84,FEMALE,WHITE,Stage II,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-D7-A6EV,hypoxic,71,0.68,FEMALE,WHITE,Stage II,Other
+TCGA-D7-A6EZ,hypoxic,66,0.63,MALE,WHITE,Stage III,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-D7-A6F0,hypoxic,79,0.75,FEMALE,WHITE,Stage I,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-D7-A74A,hypoxic,61,0.9,FEMALE,WHITE,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-EQ-A4SO,hypoxic,70,0.78,MALE,WHITE,Stage III,Other
+TCGA-F1-6177,hypoxic,90,0.87,MALE,Other,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-F1-A448,hypoxic,70,0.14,MALE,WHITE,Stage III,Other
+TCGA-F1-A72C,hypoxic,68,0.29,MALE,ASIAN,Stage II,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-FP-8099,hypoxic,79,0.93,MALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-FP-8209,normoxic,49,0.87,MALE,WHITE,Stage I,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-FP-8210,normoxic,48,0.77,MALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-FP-8211,hypoxic,62,0.83,MALE,WHITE,Stage II,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-FP-8631,hypoxic,68,0.62,MALE,WHITE,Stage III,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-FP-A4BF,hypoxic,68,0.43,MALE,WHITE,Stage III,Other
+TCGA-HF-A5NB,hypoxic,75,0.91,FEMALE,Other,Stage III,Other
+TCGA-HJ-7597,hypoxic,71,0.61,FEMALE,WHITE,Stage I,Other
+TCGA-HU-8238,hypoxic,56,0.92,MALE,ASIAN,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-HU-8243,hypoxic,66,0.86,MALE,ASIAN,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-HU-8249,hypoxic,76,0.87,MALE,ASIAN,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-HU-8602,hypoxic,58,0.5,FEMALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-HU-A4GH,hypoxic,75,0.72,MALE,ASIAN,Stage I,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-HU-A4GJ,normoxic,60,0.78,FEMALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-HU-A4GN,hypoxic,61,0.06,MALE,ASIAN,Stage II,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-HU-A4GQ,hypoxic,71,0.51,MALE,ASIAN,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-HU-A4GT,hypoxic,71,0.81,FEMALE,ASIAN,Stage II,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-HU-A4GU,hypoxic,73,0.76,MALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-HU-A4GY,normoxic,76,0.77,FEMALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-HU-A4H2,hypoxic,58,0.62,FEMALE,ASIAN,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type
+TCGA-IN-7808,normoxic,59,0.33,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-IN-A6RI,hypoxic,45,0.67,MALE,WHITE,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-IN-A6RN,hypoxic,72,0.54,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-IN-A6RO,hypoxic,70,0.97,MALE,ASIAN,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-IN-A6RR,hypoxic,84,0.73,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-IN-A6RS,hypoxic,76,0.54,MALE,WHITE,Stage I,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-IN-A7NT,hypoxic,73,0.6,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-IN-A7NU,hypoxic,69,0.5,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-MX-A5UG,normoxic,78,0.14,MALE,ASIAN,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-RD-A7BS,hypoxic,46,0.2,MALE,WHITE,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-RD-A7BT,hypoxic,66,0.74,MALE,Other,Stage IV,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-RD-A7C1,hypoxic,82,0.47,MALE,WHITE,Stage I,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-RD-A8MW,hypoxic,72,0.32,MALE,WHITE,Stage III,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-RD-A8N0,normoxic,53,0.69,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-RD-A8N2,normoxic,59,0.71,FEMALE,WHITE,Stage I,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-RD-A8N4,normoxic,58,0.81,FEMALE,WHITE,Stage III,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-RD-A8N9,normoxic,63,0.37,FEMALE,ASIAN,Stage II,Stomach  Adenocarcinoma  Diffuse Type
+TCGA-ZA-A8F6,normoxic,71,0.21,MALE,WHITE,Stage I,Stomach  Intestinal Adenocarcinoma  Not Otherwise Specified NOS
+TCGA-ZQ-A9CR,hypoxic,79,0.26,FEMALE,WHITE,Stage III,Stomach  Intestinal Adenocarcinoma  Tubular Type

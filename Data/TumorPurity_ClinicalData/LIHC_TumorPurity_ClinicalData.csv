@@ -1,0 +1,124 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,gender,race,pathologic_stage,histological_type
+TCGA-4R-AA8I,normoxic,66,0.81,MALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-5C-A9VH,normoxic,70,0.78,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-BC-4073,hypoxic,73,0.6,MALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A10Q,hypoxic,72,0.75,FEMALE,WHITE,Other,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A10S,normoxic,81,0.71,MALE,WHITE,Other,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A10T,normoxic,76,0.72,MALE,WHITE,Other,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A10U,hypoxic,69,0.8,MALE,WHITE,Other,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A10W,hypoxic,50,0.7,MALE,ASIAN,Other,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A10X,normoxic,52,0.39,FEMALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A10Y,normoxic,76,0.88,MALE,WHITE,Other,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A10Z,normoxic,62,0.93,FEMALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A110,normoxic,51,0.44,FEMALE,Other,Other,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A216,hypoxic,62,0.78,FEMALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A3KG,hypoxic,68,0.89,FEMALE,WHITE,Stage II,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-BC-A69H,hypoxic,64,0.8,MALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-BC-A69I,normoxic,69,0.78,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-BC-A8YO,hypoxic,66,0.86,FEMALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-CC-5259,hypoxic,60,0.82,FEMALE,ASIAN,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-CC-5260,normoxic,61,0.63,FEMALE,ASIAN,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-CC-5261,normoxic,44,0.58,MALE,ASIAN,Stage II,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-CC-5263,hypoxic,35,0.69,MALE,ASIAN,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-CC-A1HT,hypoxic,50,0.42,MALE,ASIAN,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-CC-A3M9,hypoxic,45,0.52,MALE,ASIAN,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-CC-A3MA,normoxic,61,0.74,MALE,ASIAN,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-CC-A3MB,normoxic,36,0.83,MALE,ASIAN,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A113,normoxic,55,0.8,FEMALE,WHITE,Stage II,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A11A,normoxic,67,0.84,MALE,Other,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A11B,normoxic,73,0.86,MALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A11C,normoxic,69,0.88,MALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A11D,normoxic,57,0.76,FEMALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A1EA,normoxic,68,0.81,MALE,ASIAN,Stage II,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A1EB,normoxic,72,0.81,FEMALE,Other,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A1ED,normoxic,68,0.44,MALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A1EE,normoxic,73,0.82,MALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A1EF,normoxic,57,0.64,FEMALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A1EH,normoxic,23,0.72,MALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A1EJ,hypoxic,71,0.8,FEMALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A1EK,hypoxic,64,0.81,FEMALE,WHITE,Stage IV,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A39Y,hypoxic,67,0.78,MALE,ASIAN,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A3A2,normoxic,76,0.79,FEMALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A3A4,normoxic,37,0.75,MALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A4NA,hypoxic,67,0.75,FEMALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A4ND,normoxic,56,0.59,FEMALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A4NE,normoxic,75,0.84,FEMALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-DD-A4NF,normoxic,72,0.78,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-DD-A4NG,normoxic,77,0.73,MALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-DD-A4NH,hypoxic,65,0.29,FEMALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-DD-A4NI,normoxic,67,0.67,MALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-DD-A4NJ,normoxic,54,0.72,FEMALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-DD-A4NK,normoxic,80,0.8,FEMALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-DD-A4NL,normoxic,46,0.45,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-DD-A4NN,normoxic,56,0.86,FEMALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-DD-A4NO,normoxic,65,0.7,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-DD-A4NP,normoxic,32,0.65,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-DD-A4NQ,hypoxic,60,0.51,MALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-DD-A4NS,normoxic,61,0.46,FEMALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-DD-A4NV,normoxic,61,0.7,MALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-DD-A73A,normoxic,71,0.72,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-DD-A73C,normoxic,65,0.7,FEMALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-DD-A73D,normoxic,68,0.93,FEMALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-DD-A73E,normoxic,66,0.9,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-ED-A459,hypoxic,47,0.7,MALE,ASIAN,Stage II,Hepatocellular Carcinoma
+TCGA-ED-A4XI,normoxic,58,0.5,MALE,ASIAN,Stage II,Hepatocellular Carcinoma
+TCGA-ED-A627,normoxic,74,0.4,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-ED-A66X,normoxic,35,0.52,MALE,ASIAN,Stage III,Hepatocellular Carcinoma
+TCGA-ED-A66Y,normoxic,51,0.9,FEMALE,ASIAN,Stage III,Hepatocellular Carcinoma
+TCGA-ED-A7PX,hypoxic,48,0.67,FEMALE,ASIAN,Stage II,Hepatocellular Carcinoma
+TCGA-ED-A7PY,normoxic,20,0.83,FEMALE,ASIAN,Stage II,Hepatocellular Carcinoma
+TCGA-ED-A7PZ,hypoxic,61,0.9,MALE,ASIAN,Stage II,Hepatocellular Carcinoma
+TCGA-ED-A82E,hypoxic,60,0.11,FEMALE,ASIAN,Stage III,Hepatocellular Carcinoma
+TCGA-ED-A8O5,normoxic,59,0.83,FEMALE,ASIAN,Stage III,Hepatocellular Carcinoma
+TCGA-ED-A8O6,hypoxic,50,0.77,FEMALE,ASIAN,Stage III,Hepatocellular Carcinoma
+TCGA-ED-A97K,normoxic,54,0.6,MALE,ASIAN,Stage III,Other
+TCGA-EP-A12J,normoxic,62,0.81,MALE,Other,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-EP-A26S,normoxic,70,0.87,MALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-EP-A2KA,hypoxic,52,0.64,FEMALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-EP-A2KB,normoxic,46,0.83,FEMALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-EP-A2KC,normoxic,62,0.77,MALE,Other,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-FV-A23B,normoxic,70,0.81,FEMALE,WHITE,Stage II,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-FV-A2QR,normoxic,75,0.78,MALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-FV-A3I0,hypoxic,76,0.8,FEMALE,WHITE,Stage II,Other
+TCGA-FV-A3R3,normoxic,38,0.54,FEMALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-FV-A4ZQ,hypoxic,52,0.7,MALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-G3-A25T,hypoxic,45,0.74,FEMALE,WHITE,Stage III,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-G3-A25U,normoxic,63,0.9,FEMALE,ASIAN,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-G3-A25V,normoxic,68,0.49,MALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-G3-A25X,hypoxic,73,0.61,MALE,ASIAN,Stage II,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-G3-A25Y,normoxic,52,0.63,FEMALE,ASIAN,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-G3-A3CG,normoxic,80,0.71,MALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-G3-A3CI,normoxic,71,0.44,MALE,WHITE,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-G3-A3CK,normoxic,61,0.72,MALE,ASIAN,Stage I,Liver  Hepatocellular carcinomaHepatocellular Carcinoma
+TCGA-G3-A5SJ,hypoxic,59,0.68,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-G3-A5SK,normoxic,58,0.68,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-G3-A5SL,normoxic,70,0.8,MALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-G3-A6UC,normoxic,65,0.9,MALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-G3-A7M6,normoxic,60,0.75,FEMALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-G3-A7M8,normoxic,31,0.64,MALE,ASIAN,Stage I,Hepatocellular Carcinoma
+TCGA-G3-A7M9,hypoxic,70,0.71,MALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-G3-AAV0,normoxic,58,0.82,MALE,ASIAN,Stage I,Hepatocellular Carcinoma
+TCGA-G3-AAV3,normoxic,58,0.65,FEMALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-GJ-A6C0,hypoxic,75,0.76,FEMALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-HP-A5N0,normoxic,88,0.7,FEMALE,Other,Other,Hepatocellular Carcinoma
+TCGA-KR-A7K2,normoxic,64,0.81,MALE,WHITE,Stage I,Other
+TCGA-LG-A6GG,normoxic,79,0.89,FEMALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-LG-A9QC,normoxic,48,0.82,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-LG-A9QD,normoxic,68,0.62,MALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-MI-A75C,hypoxic,64,0.78,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-MI-A75H,normoxic,77,0.74,MALE,WHITE,Other,Hepatocellular Carcinoma
+TCGA-MR-A8JO,hypoxic,34,0.49,MALE,WHITE,Stage I,Other
+TCGA-NI-A4U2,normoxic,71,0.73,MALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-NI-A8LF,normoxic,74,0.73,MALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-WJ-A86L,normoxic,68,0.9,FEMALE,WHITE,Stage I,Hepatocellular Carcinoma
+TCGA-WQ-A9G7,normoxic,71,0.68,FEMALE,WHITE,Other,Hepatocellular Carcinoma
+TCGA-YA-A8S7,hypoxic,68,0.62,MALE,WHITE,Stage III,Hepatocellular Carcinoma
+TCGA-ZP-A9CV,normoxic,59,0.71,MALE,WHITE,Other,Hepatocellular Carcinoma
+TCGA-ZP-A9CY,normoxic,66,0.72,FEMALE,WHITE,Other,Hepatocellular Carcinoma
+TCGA-ZP-A9CZ,normoxic,72,0.68,MALE,ASIAN,Other,Hepatocellular Carcinoma
+TCGA-ZP-A9D1,normoxic,56,0.68,FEMALE,WHITE,Other,Hepatocellular Carcinoma
+TCGA-ZP-A9D4,normoxic,64,0.87,FEMALE,WHITE,Other,Hepatocellular Carcinoma
+TCGA-ZS-A9CD,normoxic,73,0.68,MALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-ZS-A9CE,normoxic,79,0.86,FEMALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-ZS-A9CF,normoxic,64,0.88,MALE,WHITE,Stage II,Hepatocellular Carcinoma
+TCGA-ZS-A9CG,normoxic,55,0.78,MALE,WHITE,Stage II,Hepatocellular Carcinoma

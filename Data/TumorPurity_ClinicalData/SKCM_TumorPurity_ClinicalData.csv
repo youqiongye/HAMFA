@@ -1,0 +1,245 @@
+barcode,myclusters,Purity,gender,pathologic_stage
+TCGA-3N-A9WB,hypoxic,0.99,Other,Other
+TCGA-D3-A1Q3,normoxic,0.67,MALE,Stage II
+TCGA-D3-A1Q5,normoxic,0.96,MALE,Other
+TCGA-D3-A1Q6,normoxic,0.63,MALE,Stage III
+TCGA-D3-A1Q7,normoxic,0.33,FEMALE,Stage I
+TCGA-D3-A1Q8,normoxic,0.53,MALE,Stage IV
+TCGA-D3-A1Q9,normoxic,0.84,MALE,Stage III
+TCGA-D3-A1QA,normoxic,0.82,MALE,Stage I
+TCGA-D3-A1QB,hypoxic,0.42,FEMALE,Stage III
+TCGA-D3-A2J6,hypoxic,0.74,MALE,Stage II
+TCGA-D3-A2J7,normoxic,0.22,MALE,Stage III
+TCGA-D3-A2J8,hypoxic,0.2,MALE,Stage I
+TCGA-D3-A2J9,normoxic,0.15,MALE,Stage III
+TCGA-D3-A2JA,normoxic,0.53,MALE,Stage III
+TCGA-D3-A2JB,normoxic,0.11,FEMALE,Other
+TCGA-D3-A2JD,hypoxic,0.44,MALE,Stage III
+TCGA-D3-A2JE,hypoxic,0.88,Other,Other
+TCGA-D3-A2JF,normoxic,0.74,MALE,Stage I
+TCGA-D3-A2JG,hypoxic,0.75,FEMALE,Stage III
+TCGA-D3-A2JH,normoxic,0.6,MALE,Stage I
+TCGA-D3-A2JK,hypoxic,0.62,MALE,Stage III
+TCGA-D3-A2JL,normoxic,0.59,FEMALE,Other
+TCGA-D3-A2JN,hypoxic,0.42,FEMALE,Stage III
+TCGA-D3-A2JO,normoxic,0.49,FEMALE,Stage III
+TCGA-D3-A3BZ,hypoxic,0.79,MALE,Stage II
+TCGA-D3-A3C1,hypoxic,0.65,MALE,Other
+TCGA-D3-A3C3,normoxic,0.7,FEMALE,Other
+TCGA-D3-A3C6,normoxic,0.91,FEMALE,Stage I
+TCGA-D3-A3C8,normoxic,0.52,FEMALE,Stage III
+TCGA-D3-A3CB,normoxic,0.68,MALE,Other
+TCGA-D3-A3CC,hypoxic,0.73,FEMALE,Stage II
+TCGA-D3-A3CE,normoxic,0.74,FEMALE,Stage III
+TCGA-D3-A3CF,normoxic,0.28,FEMALE,Stage III
+TCGA-D3-A3ML,normoxic,0.98,MALE,Stage III
+TCGA-D3-A3MU,normoxic,0.77,MALE,Stage III
+TCGA-D3-A3MV,normoxic,0.73,FEMALE,Stage III
+TCGA-D3-A51F,normoxic,0.13,MALE,Stage III
+TCGA-D3-A51H,normoxic,0.1,MALE,Stage III
+TCGA-D3-A51J,normoxic,0.53,MALE,Stage III
+TCGA-D3-A51K,hypoxic,0.82,MALE,Stage III
+TCGA-D3-A51R,normoxic,0.93,MALE,Stage II
+TCGA-D3-A51T,normoxic,0.86,FEMALE,Stage III
+TCGA-D3-A5GL,hypoxic,0.71,MALE,Stage I
+TCGA-D3-A5GO,normoxic,0.88,MALE,Stage II
+TCGA-D3-A5GS,normoxic,0.73,MALE,Stage IV
+TCGA-D3-A5GU,normoxic,0.76,MALE,Stage I
+TCGA-D3-A8GB,normoxic,0.21,MALE,Stage III
+TCGA-D3-A8GC,normoxic,0.87,MALE,Stage III
+TCGA-D3-A8GD,normoxic,0.18,FEMALE,Stage III
+TCGA-D3-A8GE,normoxic,0.26,MALE,Stage IV
+TCGA-D3-A8GI,hypoxic,0.9,MALE,Stage I
+TCGA-D3-A8GK,hypoxic,0.8,MALE,Stage II
+TCGA-D3-A8GL,normoxic,0.97,MALE,Stage III
+TCGA-D3-A8GM,normoxic,0.66,MALE,Stage II
+TCGA-D3-A8GN,normoxic,0.19,FEMALE,Other
+TCGA-D3-A8GP,normoxic,0.96,MALE,Stage III
+TCGA-D3-A8GQ,normoxic,0.68,MALE,Stage II
+TCGA-D3-A8GR,hypoxic,0.81,FEMALE,Other
+TCGA-D3-A8GS,hypoxic,0.21,MALE,Stage I
+TCGA-D9-A148,normoxic,0.84,MALE,Other
+TCGA-D9-A149,normoxic,0.69,FEMALE,Other
+TCGA-D9-A1JW,normoxic,0.51,MALE,Other
+TCGA-D9-A1X3,normoxic,0.95,MALE,Other
+TCGA-D9-A3Z3,normoxic,0.6,FEMALE,Stage III
+TCGA-D9-A4Z6,normoxic,0.8,MALE,Stage III
+TCGA-D9-A6E9,hypoxic,0.52,FEMALE,Stage III
+TCGA-D9-A6EC,normoxic,0.96,FEMALE,Stage III
+TCGA-D9-A6EG,normoxic,0.96,MALE,Stage III
+TCGA-DA-A1HV,normoxic,0.7,FEMALE,Stage III
+TCGA-DA-A1HW,normoxic,0.66,FEMALE,Stage III
+TCGA-DA-A1I0,hypoxic,0.66,MALE,Stage IV
+TCGA-DA-A1I2,normoxic,0.78,MALE,Stage III
+TCGA-DA-A1I4,hypoxic,0.21,MALE,Stage III
+TCGA-DA-A1I5,hypoxic,0.56,FEMALE,Stage IV
+TCGA-DA-A1I7,normoxic,0.71,MALE,Stage III
+TCGA-DA-A1IC,normoxic,0.81,MALE,Stage III
+TCGA-DA-A3F2,normoxic,0.66,MALE,Stage III
+TCGA-DA-A3F3,normoxic,0.92,MALE,Stage III
+TCGA-DA-A3F5,normoxic,0.6,MALE,Stage III
+TCGA-DA-A3F8,normoxic,0.33,MALE,Stage III
+TCGA-EB-A44Q,normoxic,0.6,FEMALE,Stage III
+TCGA-EB-A44R,normoxic,0.77,MALE,Stage III
+TCGA-EB-A5KH,hypoxic,0.89,MALE,Stage III
+TCGA-EB-A5SG,normoxic,0.21,FEMALE,Other
+TCGA-EB-A5SH,normoxic,0.86,FEMALE,Stage III
+TCGA-EB-A5UL,hypoxic,0.53,MALE,Stage III
+TCGA-EB-A5UN,normoxic,0.36,MALE,Stage II
+TCGA-EB-A5VV,normoxic,0.66,FEMALE,Stage III
+TCGA-EB-A6L9,hypoxic,0.94,MALE,Stage III
+TCGA-EE-A17X,hypoxic,0.92,MALE,Stage I
+TCGA-EE-A17Z,hypoxic,0.98,MALE,Stage II
+TCGA-EE-A180,normoxic,0.92,MALE,Stage III
+TCGA-EE-A181,normoxic,0.62,FEMALE,Stage II
+TCGA-EE-A182,hypoxic,0.59,FEMALE,Stage III
+TCGA-EE-A183,hypoxic,0.64,MALE,Other
+TCGA-EE-A184,normoxic,0.83,MALE,Stage I
+TCGA-EE-A20F,hypoxic,0.67,MALE,Stage I
+TCGA-EE-A20H,normoxic,0.96,MALE,Stage I
+TCGA-EE-A20I,hypoxic,0.79,MALE,Stage IV
+TCGA-EE-A29A,normoxic,0.92,MALE,Stage III
+TCGA-EE-A29B,normoxic,0.94,MALE,Stage II
+TCGA-EE-A29C,hypoxic,0.55,MALE,Stage I
+TCGA-EE-A29D,normoxic,0.95,MALE,Stage III
+TCGA-EE-A29E,hypoxic,0.88,MALE,Stage III
+TCGA-EE-A29G,normoxic,0.14,MALE,Stage III
+TCGA-EE-A29H,hypoxic,0.95,FEMALE,Stage I
+TCGA-EE-A29L,hypoxic,0.93,MALE,Stage III
+TCGA-EE-A29M,normoxic,0.58,FEMALE,Stage I
+TCGA-EE-A29N,normoxic,0.2,MALE,Other
+TCGA-EE-A29P,normoxic,0.52,FEMALE,Stage II
+TCGA-EE-A29Q,normoxic,0.78,FEMALE,Stage II
+TCGA-EE-A29S,hypoxic,0.66,MALE,Stage II
+TCGA-EE-A29T,normoxic,0.59,FEMALE,Other
+TCGA-EE-A29V,hypoxic,0.8,MALE,Stage III
+TCGA-EE-A29W,normoxic,0.69,MALE,Other
+TCGA-EE-A29X,hypoxic,0.74,FEMALE,Stage I
+TCGA-EE-A2A0,normoxic,0.23,FEMALE,Stage II
+TCGA-EE-A2A1,normoxic,0.21,MALE,Stage I
+TCGA-EE-A2A2,normoxic,0.86,MALE,Stage III
+TCGA-EE-A2A5,normoxic,0.93,MALE,Stage I
+TCGA-EE-A2GB,hypoxic,0.91,MALE,Stage III
+TCGA-EE-A2GC,normoxic,0.73,MALE,Stage II
+TCGA-EE-A2GD,normoxic,0.36,FEMALE,Stage II
+TCGA-EE-A2GH,normoxic,0.17,MALE,Stage I
+TCGA-EE-A2GI,hypoxic,0.59,MALE,Stage I
+TCGA-EE-A2GJ,normoxic,0.67,MALE,Stage I
+TCGA-EE-A2GK,normoxic,0.96,FEMALE,Stage I
+TCGA-EE-A2GL,normoxic,0.21,FEMALE,Stage II
+TCGA-EE-A2GP,normoxic,0.8,MALE,Stage III
+TCGA-EE-A2GR,hypoxic,0.61,MALE,Stage II
+TCGA-EE-A2GS,normoxic,0.96,FEMALE,Stage I
+TCGA-EE-A2GT,hypoxic,0.23,MALE,Stage II
+TCGA-EE-A2GU,normoxic,0.56,FEMALE,Stage I
+TCGA-EE-A2M5,hypoxic,0.5,MALE,Stage I
+TCGA-EE-A2M6,hypoxic,0.91,MALE,Stage I
+TCGA-EE-A2M7,normoxic,0.53,MALE,Stage II
+TCGA-EE-A2M8,normoxic,0.21,FEMALE,Stage III
+TCGA-EE-A2MD,normoxic,0.58,MALE,Stage II
+TCGA-EE-A2ME,normoxic,0.12,MALE,Stage I
+TCGA-EE-A2MF,normoxic,0.88,FEMALE,Stage I
+TCGA-EE-A2MG,normoxic,0.88,MALE,Stage I
+TCGA-EE-A2MJ,normoxic,0.14,MALE,Stage III
+TCGA-EE-A2MK,normoxic,0.84,FEMALE,Stage III
+TCGA-EE-A2ML,normoxic,0.66,MALE,Stage II
+TCGA-EE-A2MM,normoxic,0.97,FEMALE,Stage I
+TCGA-EE-A2MN,normoxic,0.84,MALE,Stage I
+TCGA-EE-A2MQ,normoxic,0.85,FEMALE,Stage III
+TCGA-EE-A2MR,normoxic,0.17,MALE,Stage I
+TCGA-EE-A2MS,normoxic,0.9,MALE,Stage II
+TCGA-EE-A2MU,normoxic,0.31,MALE,Stage I
+TCGA-EE-A3AC,normoxic,0.82,MALE,Stage III
+TCGA-EE-A3AE,normoxic,0.84,FEMALE,Stage I
+TCGA-EE-A3AF,normoxic,0.77,FEMALE,Stage III
+TCGA-EE-A3J3,normoxic,0.76,MALE,Stage I
+TCGA-EE-A3J5,normoxic,0.66,MALE,Stage III
+TCGA-EE-A3J7,normoxic,0.89,MALE,Stage I
+TCGA-EE-A3J8,normoxic,0.98,MALE,Stage III
+TCGA-EE-A3JA,normoxic,0.83,MALE,Stage I
+TCGA-EE-A3JB,normoxic,0.62,FEMALE,Stage III
+TCGA-EE-A3JD,normoxic,0.66,MALE,Stage III
+TCGA-EE-A3JE,normoxic,0.2,MALE,Stage III
+TCGA-EE-A3JH,normoxic,0.2,MALE,Stage I
+TCGA-EE-A3JI,normoxic,0.96,MALE,Stage I
+TCGA-ER-A193,normoxic,0.65,MALE,Stage II
+TCGA-ER-A195,normoxic,0.53,MALE,Other
+TCGA-ER-A197,hypoxic,0.34,FEMALE,Stage III
+TCGA-ER-A198,normoxic,0.79,MALE,Other
+TCGA-ER-A199,normoxic,0.33,FEMALE,Stage III
+TCGA-ER-A19A,normoxic,0.12,MALE,Stage IV
+TCGA-ER-A19C,hypoxic,0.7,MALE,Stage I
+TCGA-ER-A19D,normoxic,0.84,FEMALE,Stage I
+TCGA-ER-A19E,normoxic,0.82,FEMALE,Stage I
+TCGA-ER-A19F,hypoxic,0.94,MALE,Other
+TCGA-ER-A19G,hypoxic,0.79,FEMALE,Other
+TCGA-ER-A19H,normoxic,0.8,MALE,Other
+TCGA-ER-A19J,normoxic,0.86,MALE,Stage IV
+TCGA-ER-A19L,hypoxic,0.87,MALE,Other
+TCGA-ER-A19M,hypoxic,0.57,MALE,Stage I
+TCGA-ER-A19N,normoxic,0.21,MALE,Other
+TCGA-ER-A19O,hypoxic,0.46,MALE,Stage III
+TCGA-ER-A19P,normoxic,0.16,FEMALE,Other
+TCGA-ER-A19W,normoxic,0.22,FEMALE,Other
+TCGA-ER-A1A1,normoxic,0.65,MALE,Stage III
+TCGA-ER-A2NC,normoxic,0.75,MALE,Stage I
+TCGA-ER-A2ND,normoxic,0.77,FEMALE,Stage III
+TCGA-ER-A2NF,normoxic,0.79,MALE,Stage III
+TCGA-ER-A2NG,hypoxic,0.43,FEMALE,Stage III
+TCGA-ER-A3ES,normoxic,0.97,MALE,Other
+TCGA-ER-A3ET,normoxic,0.63,FEMALE,Stage III
+TCGA-ER-A3EV,normoxic,0.82,MALE,Stage III
+TCGA-FR-A3YN,normoxic,0.89,MALE,Stage I
+TCGA-FR-A3YO,hypoxic,0.53,FEMALE,Other
+TCGA-FR-A44A,normoxic,0.39,FEMALE,Stage II
+TCGA-FR-A69P,normoxic,0.88,FEMALE,Stage III
+TCGA-FR-A7U9,hypoxic,0.41,FEMALE,Stage III
+TCGA-FR-A7UA,normoxic,0.15,FEMALE,Stage I
+TCGA-FR-A8YC,normoxic,0.82,MALE,Stage II
+TCGA-FR-A8YD,hypoxic,0.83,FEMALE,Stage II
+TCGA-FS-A1YW,normoxic,0.91,MALE,Stage I
+TCGA-FS-A1YX,normoxic,0.75,FEMALE,Stage I
+TCGA-FS-A1YY,normoxic,0.72,FEMALE,Stage II
+TCGA-FS-A1Z0,normoxic,0.67,FEMALE,Stage I
+TCGA-FS-A1Z3,normoxic,0.91,FEMALE,Stage IV
+TCGA-FS-A1Z4,hypoxic,0.19,MALE,Stage I
+TCGA-FS-A1ZB,hypoxic,0.28,MALE,Stage II
+TCGA-FS-A1ZD,normoxic,0.89,MALE,Stage II
+TCGA-FS-A1ZE,normoxic,0.96,MALE,Stage II
+TCGA-FS-A1ZF,normoxic,0.88,FEMALE,Stage II
+TCGA-FS-A1ZG,normoxic,0.95,FEMALE,Stage III
+TCGA-FS-A1ZJ,normoxic,0.91,FEMALE,Stage I
+TCGA-FS-A1ZK,hypoxic,0.88,MALE,Stage II
+TCGA-FS-A1ZM,normoxic,0.85,MALE,Stage III
+TCGA-FS-A1ZP,normoxic,0.75,MALE,Stage II
+TCGA-FS-A1ZQ,hypoxic,0.78,MALE,Other
+TCGA-FS-A1ZR,normoxic,0.87,MALE,Stage II
+TCGA-FS-A1ZS,normoxic,0.87,MALE,Stage II
+TCGA-FS-A1ZT,normoxic,0.67,MALE,Stage III
+TCGA-FS-A1ZU,hypoxic,0.96,FEMALE,Stage II
+TCGA-FS-A1ZW,normoxic,0.52,MALE,Stage III
+TCGA-FS-A4F0,normoxic,0.96,FEMALE,Stage II
+TCGA-FS-A4F4,hypoxic,0.79,MALE,Stage II
+TCGA-FS-A4F5,normoxic,0.94,FEMALE,Stage I
+TCGA-FS-A4F8,normoxic,0.19,MALE,Stage I
+TCGA-FS-A4F9,normoxic,0.96,MALE,Stage III
+TCGA-FS-A4FC,hypoxic,0.57,FEMALE,Stage II
+TCGA-FS-A4FD,normoxic,0.84,MALE,Stage III
+TCGA-FW-A3I3,normoxic,0.85,FEMALE,Stage IV
+TCGA-FW-A3R5,normoxic,0.58,MALE,Stage III
+TCGA-FW-A3TU,hypoxic,0.87,FEMALE,Other
+TCGA-FW-A3TV,normoxic,0.57,FEMALE,Stage III
+TCGA-FW-A5DY,normoxic,0.11,FEMALE,Stage III
+TCGA-GF-A3OT,hypoxic,0.78,FEMALE,Stage III
+TCGA-GF-A4EO,normoxic,0.76,FEMALE,Stage III
+TCGA-GN-A261,normoxic,0.57,FEMALE,Stage III
+TCGA-GN-A262,normoxic,0.95,FEMALE,Other
+TCGA-GN-A264,normoxic,0.89,MALE,Other
+TCGA-GN-A265,normoxic,0.17,MALE,Other
+TCGA-GN-A266,normoxic,0.7,MALE,Other
+TCGA-GN-A267,normoxic,0.71,MALE,Stage III
+TCGA-GN-A268,normoxic,0.97,FEMALE,Stage II
+TCGA-GN-A4U9,normoxic,0.88,MALE,Stage III
+TCGA-HR-A2OH,hypoxic,0.42,FEMALE,Stage III
+TCGA-LH-A9QB,normoxic,0.96,FEMALE,Other
+TCGA-QB-A6FS,hypoxic,0.26,MALE,Stage III

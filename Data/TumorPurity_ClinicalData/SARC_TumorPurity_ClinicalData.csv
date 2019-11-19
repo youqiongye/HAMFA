@@ -1,0 +1,92 @@
+barcode,myclusters,age_at_initial_pathologic_diagnosis,Purity,gender,histological_type
+TCGA-DX-A1KU,normoxic,82,0.58,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A1KW,normoxic,67,0.85,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A1KY,normoxic,66,0.92,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A1KZ,normoxic,66,0.67,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A1L0,normoxic,58,0.87,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A1L1,normoxic,60,0.62,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A1L2,normoxic,78,0.69,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A1L3,normoxic,60,0.61,FEMALE,Dedifferentiated liposarcoma
+TCGA-DX-A1L4,normoxic,60,0.36,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A23R,normoxic,55,0.92,FEMALE,Dedifferentiated liposarcoma
+TCGA-DX-A23T,hypoxic,40,0.4,FEMALE,Dedifferentiated liposarcoma
+TCGA-DX-A23U,normoxic,81,0.78,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A23V,normoxic,57,0.56,FEMALE,Dedifferentiated liposarcoma
+TCGA-DX-A23Y,normoxic,80,0.66,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A23Z,normoxic,74,0.66,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A240,normoxic,51,0.89,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A2IZ,normoxic,60,0.9,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A2J0,normoxic,61,0.88,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A2J1,normoxic,53,0.46,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A2J4,normoxic,60,0.45,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A3LS,normoxic,78,0.58,FEMALE,Dedifferentiated liposarcoma
+TCGA-DX-A3LT,hypoxic,62,0.73,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A3LU,normoxic,60,0.57,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A3LW,normoxic,43,0.88,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A3LY,normoxic,66,0.7,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A3M1,normoxic,79,0.88,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A3U5,normoxic,52,0.66,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A3U6,normoxic,63,0.36,FEMALE,Dedifferentiated liposarcoma
+TCGA-DX-A3U7,normoxic,67,0.9,MALE,Leiomyosarcoma LMS
+TCGA-DX-A3U8,hypoxic,43,0.52,MALE,Leiomyosarcoma LMS
+TCGA-DX-A3U9,hypoxic,84,0.91,MALE,Leiomyosarcoma LMS
+TCGA-DX-A3UA,normoxic,47,0.88,FEMALE,Leiomyosarcoma LMS
+TCGA-DX-A3UD,hypoxic,56,0.92,MALE,Leiomyosarcoma LMS
+TCGA-DX-A3UE,hypoxic,66,0.92,FEMALE,Leiomyosarcoma LMS
+TCGA-DX-A48K,normoxic,65,0.69,MALE,Leiomyosarcoma LMS
+TCGA-DX-A48L,hypoxic,49,0.91,FEMALE,Leiomyosarcoma LMS
+TCGA-DX-A48N,normoxic,47,0.89,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A6BE,normoxic,77,0.49,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A6BF,hypoxic,82,0.72,FEMALE,Dedifferentiated liposarcoma
+TCGA-DX-A6BG,normoxic,51,0.63,MALE,Dedifferentiated liposarcoma
+TCGA-DX-A6BH,normoxic,34,0.76,MALE,Dedifferentiated liposarcoma
+TCGA-FX-A2QS,normoxic,61,0.91,FEMALE,Dedifferentiated liposarcoma
+TCGA-FX-A3NK,normoxic,53,0.77,MALE,Dedifferentiated liposarcoma
+TCGA-FX-A3TO,hypoxic,87,0.89,MALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-FX-A48G,hypoxic,56,0.89,FEMALE,Leiomyosarcoma LMS
+TCGA-HB-A2OT,hypoxic,78,0.57,FEMALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-HB-A3YV,normoxic,75,0.91,MALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-HS-A5N7,hypoxic,67,0.83,FEMALE,Leiomyosarcoma LMS
+TCGA-HS-A5N8,normoxic,69,0.78,FEMALE,Leiomyosarcoma LMS
+TCGA-HS-A5N9,hypoxic,58,0.94,FEMALE,Leiomyosarcoma LMS
+TCGA-IE-A4EJ,normoxic,84,0.73,FEMALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-IE-A6BZ,normoxic,65,0.92,FEMALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-IF-A3RQ,hypoxic,70,0.78,FEMALE,Dedifferentiated liposarcoma
+TCGA-IF-A4AJ,normoxic,80,0.82,MALE,Leiomyosarcoma LMS
+TCGA-IS-A3K7,hypoxic,63,0.73,FEMALE,Leiomyosarcoma LMS
+TCGA-IW-A3M4,normoxic,48,0.9,FEMALE,Leiomyosarcoma LMS
+TCGA-IW-A3M5,hypoxic,76,0.86,FEMALE,Leiomyosarcoma LMS
+TCGA-JV-A5VF,hypoxic,69,0.89,FEMALE,Leiomyosarcoma LMS
+TCGA-JV-A75J,hypoxic,43,0.93,FEMALE,Leiomyosarcoma LMS
+TCGA-KF-A41W,hypoxic,71,0.7,FEMALE,Leiomyosarcoma LMS
+TCGA-LI-A67I,hypoxic,75,0.82,FEMALE,Other
+TCGA-LI-A9QH,normoxic,72,0.93,FEMALE,Other
+TCGA-MB-A5Y9,hypoxic,90,0.39,MALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-MB-A8JL,normoxic,53,0.86,FEMALE,Leiomyosarcoma LMS
+TCGA-MJ-A68H,hypoxic,57,0.89,FEMALE,Leiomyosarcoma LMS
+TCGA-MJ-A850,hypoxic,28,0.85,MALE,Other
+TCGA-MO-A47R,normoxic,75,0.92,FEMALE,Leiomyosarcoma LMS
+TCGA-N1-A6IA,hypoxic,41,0.81,FEMALE,Leiomyosarcoma LMS
+TCGA-PC-A5DM,hypoxic,73,0.89,MALE,Leiomyosarcoma LMS
+TCGA-PC-A5DN,normoxic,77,0.7,FEMALE,Leiomyosarcoma LMS
+TCGA-PC-A5DP,hypoxic,72,0.92,FEMALE,Leiomyosarcoma LMS
+TCGA-QQ-A5V2,hypoxic,42,0.61,MALE,Other
+TCGA-QQ-A5V9,hypoxic,76,0.65,MALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-QQ-A5VA,normoxic,60,0.55,FEMALE,Dedifferentiated liposarcoma
+TCGA-QQ-A5VC,hypoxic,63,0.9,FEMALE,Leiomyosarcoma LMS
+TCGA-RN-A68Q,normoxic,62,0.16,FEMALE,Other
+TCGA-SG-A6Z7,normoxic,44,0.9,FEMALE,Dedifferentiated liposarcoma
+TCGA-UE-A6QU,normoxic,90,0.56,FEMALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-WK-A8XO,hypoxic,66,0.68,FEMALE,Dedifferentiated liposarcoma
+TCGA-WK-A8XQ,normoxic,57,0.91,MALE,Dedifferentiated liposarcoma
+TCGA-WK-A8XX,hypoxic,70,0.86,MALE,Leiomyosarcoma LMS
+TCGA-WK-A8XY,hypoxic,53,0.9,FEMALE,Leiomyosarcoma LMS
+TCGA-WK-A8Y0,hypoxic,49,0.79,FEMALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-X6-A7WB,normoxic,58,0.91,FEMALE,Leiomyosarcoma LMS
+TCGA-X6-A7WC,hypoxic,74,0.78,MALE,Leiomyosarcoma LMS
+TCGA-X6-A7WD,hypoxic,63,0.88,FEMALE,Leiomyosarcoma LMS
+TCGA-X6-A8C2,normoxic,56,0.87,MALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-X6-A8C3,normoxic,59,0.66,FEMALE,Other
+TCGA-X6-A8C4,hypoxic,70,0.92,FEMALE,Undifferentiated Pleomorphic Sarcoma UPS
+TCGA-X6-A8C6,normoxic,55,0.69,MALE,Other
+TCGA-X6-A8C7,normoxic,24,0.91,FEMALE,Other
