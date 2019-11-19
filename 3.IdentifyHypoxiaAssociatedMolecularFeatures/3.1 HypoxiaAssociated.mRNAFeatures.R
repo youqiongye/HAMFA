@@ -1,4 +1,4 @@
-#Identify hypoxia associated mRNA
+#demo for identifying hypoxia associated molecular features (mRNA).
 library(dummies)
 Outpath <- "~/HypoxiaAssociatedFeatures/" #Define your output path
 Input_ClinicPath <- "~/Process_ClinicData/" #Input path, which include your hypoxia class and clinic information
