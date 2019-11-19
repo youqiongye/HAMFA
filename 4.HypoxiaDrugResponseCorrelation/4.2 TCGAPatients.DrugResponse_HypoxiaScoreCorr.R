@@ -3,13 +3,13 @@ my.cor.test<- function(...) {
   obj<-try(cor.test(...), silent=TRUE)
   if (is(obj, "try-error")) return(c(NA,NA)) else return(obj[c("estimate","p.value")])
 }
-TCGA_DS_HS_CorFolder <- "/extraspace/yye1/analysis/Hypoxia/TCGAPatientsDR_HypoxiaCor/"
-GDSC_screen_cpd <- read.delim("/extraspace/yye1/analysis/Hypoxia/New/DrugResponse/GDSC_screen_cpd.tab")
-DrugResponse <- read.csv("/extraspace/yye1/share_data/DrugData/imputed_drug_response_corrected_GLDC.csv",header=T)
+TCGA_DS_HS_CorFolder <- "~/TCGAPatientsDR_HypoxiaCor/" #set output path
+GDSC_screen_cpd <- read.delim("GDSC_screen_cpd.tab") ##GDSC drug data information, deposited in Data folder
+DrugResponse <- read.csv("imputed_drug_response_corrected_GLDC.csv",header=T) ##TCGA imputed drug response, deposited in Data folder
 colnames(DrugResponse) <- sapply(colnames(DrugResponse),function(x){ifelse(stringr::str_length(x)>4,substr(x,2,5),x)})
 DrugResponse.m <- reshape2::melt(DrugResponse,id.vars="Drug",measure.vars=colnames(DrugResponse)[2:ncol(DrugResponse)])
 
-HypoxiaStr <- read.csv("/extraspace/yye1/analysis/Hypoxia/Stratification.tumor/Stratification.DataAll.csv",header=T)
+HypoxiaStr <- read.csv("Stratification.DataAll.csv",header=T) #hypoxia stratification of all cancer types, deposited in Data folder.
 HypoxiaStr$variable <-substr(HypoxiaStr$SampleID,9,12)
 DrugResponse.Hypoxia <- merge(HypoxiaStr,DrugResponse.m,by="variable")
 DrugResponse.Hypoxia <- DrugResponse.Hypoxia[which(DrugResponse.Hypoxia$type %in% names(table(unique(DrugResponse.Hypoxia[,1:4])$type)[table(unique(DrugResponse.Hypoxia[,1:4])$type) > 30])),]
