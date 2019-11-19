@@ -2,19 +2,20 @@
 
 
 ##1. Stratificating tumors based on hypoxic markers.
-Outpath <- "/extraspace/yye1/analysis/Hypoxia/New/DoubleCheck/Stratification.tumor/"
+Outpath <- "~/Stratification.tumor/" #Output path
 setwd(Outpath)
 folder <- "Stratification.tumor"
 if (!file.exists(folder)) { dir.create(folder) }
-HypoxiaGenes <- read.delim("/extraspace/yye1/analysis/Hypoxia/Hypoxia_makers.txt",header=F)
+HypoxiaGenes <- read.delim("Hypoxia_makers.txt",header=F) #hypoxia gene signature, deposited in Data folder
 ###mRNA expression data from TCGA mRNA expression
-exp.files.names <- list.files(path="/extraspace/TCGA/TCGA_exp_DataPortal/mRNA_exp/",pattern="_20160513")
+Input_mRNA_path <- "~/mRNA_exp/" ##mRNA expression matrix folder/
+exp.files.names <- list.files(path=Input_mRNA_path,pattern="_20160513") ##mRNA expression matrix, deposited in Data folder
 exp.files.Abs <- gsub("_mRNA_each_exp_20160513","",exp.files.names)
 
 HypoxiaGenes.exp <- data.frame(HypoxiaGenes)
 colnames(HypoxiaGenes.exp) <- "gene"
 for(m in 1:length(exp.files.names)){
-  sub.exp <- read.delim(paste("/extraspace/TCGA/TCGA_exp_DataPortal/mRNA_exp/",exp.files.names[m],sep=""),header=T)
+  sub.exp <- read.delim(paste(Input_mRNA_path,exp.files.names[m],sep=""),header=T)
   sub.exp$gene <- data.frame(do.call(rbind, strsplit(as.character(sub.exp$gene),'\\|')))$X1
   sub.exp <- sub.exp[which(sub.exp$gene %in% HypoxiaGenes$V1),] ##get target genes
   if(exp.files.Abs[m]=="SKCM"){
