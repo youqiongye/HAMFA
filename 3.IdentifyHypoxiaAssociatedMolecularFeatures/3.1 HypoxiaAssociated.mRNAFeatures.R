@@ -1,6 +1,8 @@
 #Identify hypoxia associated mRNA
 library(dummies)
-Outpath <- "/extraspace/yye1/analysis/Hypoxia/New/DoubleCheck/HypoxiaAssociatedFeatures/"
+Outpath <- "~/HypoxiaAssociatedFeatures/" #Define your output path
+Input_ClinicPath <- "~/Process_ClinicData/" #Input path, which include your hypoxia class and clinic information
+Input_molecularPath <- "~/molecularData/"  # Input molecular path, which include molecular expression matrix
 setwd(Outpath)
 folder <- "3.1mRNA"
 if (!file.exists(folder)) { dir.create(folder) }
@@ -11,7 +13,7 @@ sum.mRNAAll <- data.frame()
 ####must exist stum  clinical, stratification, mRNA files.
 cancerNames <- c("BLCA","BRCA","CESC","ESCA","GBM","HNSC","KIRP","LGG","LIHC","LUAD","LUSC","OV","PAAD","SKCM","PRAD","SARC","STAD","THCA","TGCT","THYM","UCEC")
 for(cancer in cancerNames){
-  data <- read.csv(paste("/extraspace/yye1/analysis/Hypoxia/New/DoubleCheck/2.ClinicalData/ProcessedClinicalData/",cancer,"_TumorPurity_ClinicalData.csv",sep = ""),header=T)
+  data <- read.csv(paste(InputPath,cancer,"_TumorPurity_ClinicalData.csv",sep = ""),header=T)
   data <- unique(data) 
   rownames(data) <- data[,1]
   data <- data[,-1]
@@ -51,12 +53,12 @@ for(cancer in cancerNames){
   
   
   # perform calculation
-  source("~/code/cal.R")
+  source("~/cal.R") ##souce the propensity score related code
   library(doMC)
   library(foreach)
   registerDoMC(21)
   # mRNA.exp
-  mRNAseq <- read.delim(paste("/extraspace/yye1/share_data/TCGA_mRNAlog2/",cancer,"_mRNAlog2.tab",sep=""),header=T)
+  mRNAseq <- read.delim(paste(Input_molecularPath,cancer,"_mRNAlog2.tab",sep=""),header=T)
   mRNAseq <-  mRNAseq[,c("gene",colnames( mRNAseq )[as.numeric(substr(colnames( mRNAseq ),14,15)) %in% c(1,6)])]
   
   mRNAseq <- mRNAseq[,colnames(mRNAseq)[!duplicated(substr(colnames(mRNAseq),1,12))]]
