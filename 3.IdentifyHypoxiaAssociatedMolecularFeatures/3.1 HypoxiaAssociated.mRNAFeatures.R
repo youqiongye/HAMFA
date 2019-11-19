@@ -53,7 +53,7 @@ for(cancer in cancerNames){
   
   
   # perform calculation
-  source("~/cal.R") ##souce the propensity score related code
+  source("cal.R") ##souce the propensity score related code, in the same folder with this code
   library(doMC)
   library(foreach)
   registerDoMC(21)
